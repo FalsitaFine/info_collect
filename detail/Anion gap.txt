@@ -1,0 +1,3 @@
+
+Anion gap: A measurement of the interval between the sum of "routinely measured" cations minus the sum of the "routinely measured" anions in the blood. The anion gap = (Na+ + K+) - (Cl- + HCO3-) where Na- is sodium, K+ is potassium, Cl- is chloride, and HCO3- is bicarbonate.
+The anion gap can be normal, high, or low. A high anion gap indicated metabolic acidosis, the increased acidity of the blood due to metabolic processes. A low anion gap is relatively rare but may occur from the presence of abnormal positively charged proteins, as in <a href="https://www.medicinenet.com/multiple_myeloma/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">multiple myeloma</a>.

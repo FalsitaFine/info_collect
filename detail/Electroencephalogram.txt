@@ -1,0 +1,2 @@
+
+Electroencephalogram: A technique for studying the electrical currents within the brain. Electrodes are attached to the scalp. Wires attach these electrodes to a machine, which records the electrical impulses. The results are either printed out or displayed on a computer screen. Different patterns of electrical impulses can denote various forms of epilepsy. Abbreviated EEG.

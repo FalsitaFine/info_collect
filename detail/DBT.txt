@@ -1,0 +1,2 @@
+
+DBT: Dialectical behavioral therapy.  Developed by Marsha Linehan for treatment of <a href="https://www.medicinenet.com/borderline_personality_disorder/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">borderline personality disorder</a>.

@@ -1,0 +1,5 @@
+
+Arrhythmias, atrial: Abnormal heart rhythm due to
+electrical disturbances in the atria (the upper chambers of the heart) or the AV node
+"relay station", leading to fast heart beats. Examples of atrial arrhythmias
+includes <a href="https://www.medicinenet.com/atrial_fibrillation/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">atrial fibrillation</a>, atrial flutter, and paroxysmal atrial tachycardia (PAT). 

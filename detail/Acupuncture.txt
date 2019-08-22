@@ -1,0 +1,12 @@
+
+<a href="https://www.medicinenet.com/acupuncture/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">Acupuncture</a>: The practice of inserting needles into the body to reduce <a href="https://www.medicinenet.com/pain_management/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">pain</a> or induce anesthesia. More broadly, <a href="https://www.medicinenet.com/slideshow_pictures_acupuncture/article.htm" onclick="wmdTrack('embd-lnk');" rel="slide">acupuncture</a> is a family of procedures involving the stimulation of anatomical locations on or in the skin by a variety of techniques. There are a number of different approaches to diagnosis and treatment in American acupuncture that incorporate medical traditions from China, Japan, Korea, and other countries. The most thoroughly studied mechanism of stimulation of acupuncture points employs penetration of the skin by thin, solid, metallic needles, which are manipulated manually or by electrical stimulation.                                                         
+                            <div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/acupuncture/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/4/2018</span></i></div><a class="mediaPrmo quiz" href="https://www.medicinenet.com/happiness_quiz/quiz.htm" onclick="wmdTrack('quizprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com/images/quiz/happiness/happiness-s1.jpg"/>
+<span class="skew"></span>
+<span class="icon-quiz"></span>
+<h4 class="label">QUESTION</h4>
+<span class="caption">Negative emotions are more powerful than positive emotions.</span>
+<span class="btn">See Answer</span>
+</a>
+</div>

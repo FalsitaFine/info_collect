@@ -1,0 +1,4 @@
+
+Fahrenheit: Thermometer scale in which the freezing point of water is 32°F and the boiling point of water 212°F. The Fahrenheit scale is still obstinately in use in the US. This anachronism requires conversion from Centigrade (°C) to Fahrenheit (°F), and vice versa.   One degree °C = (5/9)(°F - 32).
+One degree °F = (9/5)(°C) + 32.
+Named for Gabriel Fahrenheit, a German-Dutch physicist, who devised the scale in 1724. 0°F was the lowest temperature that Fahrenheit could obtain using a mixture of ice and salt.

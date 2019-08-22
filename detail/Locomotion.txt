@@ -1,0 +1,8 @@
+
+Locomotion: Movement from one place to 
+another. And the ability to locomote, to get from one place to the 
+next. The locomotive system permits locomotion and consists of bones 
+that are the framework of the skeleton, joints that hold the bones 
+together and make movement possible, and muscles that contract and 
+relax and make for movement. Locomotion is derived from the Latin 
+"locus", place + "movere", move = move place. 

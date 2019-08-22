@@ -1,0 +1,19 @@
+
+Deoxyribonucleic acid: DNA. One of two types of molecules 
+that encode genetic information. (The other is RNA. In humans DNA is the genetic material; RNA is transcribed from it. In some other organisms, RNA is the genetic material and, in reverse fashion, the DNA is transcribed from it.)  
+DNA is a double-stranded molecule held together by weak hydrogen bonds between base pairs of nucleotides. The molecule forms a double helix in which two strands of DNA spiral about one other. The double helix looks something like an immensely long ladder twisted into a helix, or coil. The sides of the "ladder" are formed by a backbone of sugar and phosphate molecules, and the "rungs" consist of nucleotide bases joined weakly in the middle by the hydrogen bonds.  
+There are four nucleotides in DNA. Each nucleotide 
+contains a base: adenine (A), guanine (G), cytosine (C), or thymine 
+(T). Base pairs form naturally only between A and T and between G and 
+C so the base sequence of each single strand of DNA can be simply 
+deduced from that of its partner strand. 
+The genetic code in DNA is in triplets such 
+as ATG. The base sequence of that triplet in the partner strand is 
+therefore TAC. 
+The first proof that DNA was the hereditary material 
+was provided in 1944 by Oswald Avery, Maclyn McCarty and Colin 
+MacLoed. The double helical structure of DNA was discovered in 1953 
+by James D. Watson and Francis H.C. Crick with the invaluable 
+collaboration of the X-ray crystallographer Rosalind Franklin. Watson 
+and Crick shared the 1962 Nobel Prize in Physiology or Medicine with 
+Maurice H.F. Wilkins.

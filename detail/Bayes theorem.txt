@@ -1,0 +1,2 @@
+
+Bayes theorem: A probability principle set forth by the English mathematician Thomas Bayes (1702-1761). Bayes' theorem is of value in medical decision-making and some of the biomedical sciences.

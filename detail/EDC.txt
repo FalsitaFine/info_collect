@@ -1,0 +1,3 @@
+
+EDC: Estimated date of confinement, the estimated calendar date when
+the baby will be born.

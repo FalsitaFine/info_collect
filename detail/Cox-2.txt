@@ -1,0 +1,2 @@
+
+Cox-2: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=31218" onclick="wmdTrack('embd-lnk');" rel="dict">Cyclooxygenase-2</a>, an enzyme that acts to speed up the production of certain chemical messengers, called prostaglandins that play a key role in in promoting inflammation. When cox-2 activity is blocked, inflammation is reduced. Unlike <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=7123" onclick="wmdTrack('embd-lnk');" rel="dict">cox-1</a>, cox-2 is active only at the site of inflammation, not in the stomach.

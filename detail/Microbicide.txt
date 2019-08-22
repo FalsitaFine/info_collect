@@ -1,0 +1,3 @@
+
+Microbicide: An agent that kills microbes, minute forms of life (e.g. bacteria, fungi, and protozoal parasites), some capable of causing human disease.
+From microbe + the Latin "caedo," to kill.

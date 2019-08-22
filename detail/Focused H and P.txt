@@ -1,0 +1,2 @@
+
+Focused H and P: A <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3768" onclick="wmdTrack('embd-lnk');" rel="dict">medical history</a> (H) and physical examination (P) that focuses on the patient's present problem. For example, if a patient is complaining of an <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=25126" onclick="wmdTrack('embd-lnk');" rel="dict">earache</a>, the physician concentrates on the ear rather than doing a complete clinical exam.

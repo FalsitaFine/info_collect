@@ -1,0 +1,2 @@
+
+Antigenic drift: A mechanism for variation by viruses that involves the accumulation of mutations within the antibody-binding sites so that the resulting viruses cannot be inhibited well by antibodies against previous strains making it easier for them to spread throughout a partially immune population. Antigenic drift occurs in both influenza A and influenza B viruses.

@@ -1,0 +1,2 @@
+
+Chromosome disorder: An abnormal condition due to something unusual in an individual's chromosomes. For example, <a href="https://www.medicinenet.com/down_syndrome_overview/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Down syndrome</a> is a chromosome disorder caused by the presence of an extra copy of chromosome 21, and <a href="https://www.medicinenet.com/turner_syndrome/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Turner syndrome</a> is most often due to the presence of only a single sex chromosome: one X chromosome.

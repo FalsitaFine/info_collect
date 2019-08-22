@@ -1,0 +1,3 @@
+
+Chromosome duplication: Part of a chromosome in duplicate. A particular kind of mutation involving the production of one or more copies of any piece of DNA, including sometimes a gene or even an entire chromosome.
+A duplication is the opposite of a deletion.

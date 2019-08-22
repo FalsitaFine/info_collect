@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/script/main/art.asp?articlekey=8585" onclick="wmdTrack('embd-lnk');" rel="dict">Mountain sickness</a>: See <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=8584" onclick="wmdTrack('embd-lnk');" rel="dict">Altitude sickness</a>.

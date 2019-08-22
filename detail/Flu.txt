@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/influenza/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Flu</a>: Flu is a colloquialism for influenza. The flu is an acute respiratory illness caused by influenza viruses A or B . Most people who get the flu recover completely in 1 to 2 weeks, but some people develop serious and potentially life-threatening medical complications, such as pneumonia. Much of the illness and death caused by influenza can be prevented by annual influenza vaccination.

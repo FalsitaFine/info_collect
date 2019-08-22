@@ -1,0 +1,4 @@
+
+cytosis: 1. Suffix referring to cells, as in <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=25450" onclick="wmdTrack('embd-lnk');" rel="dict">anisocytosis</a> (inequality in the size of red blood cells), <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3219" onclick="wmdTrack('embd-lnk');" rel="dict">elliptocytosis</a> (elliptical red cells), and
+<a href="https://www.medicinenet.com/script/main/art.asp?articlekey=17895" onclick="wmdTrack('embd-lnk');" rel="dict"> phagocytosis</a> (ingestion of cells).<br>
+2. Suffix connoting an increase in cells, as in <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4147" onclick="wmdTrack('embd-lnk');" rel="dict">leukocytosis</a> (increase in white blood cells) and <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4222" onclick="wmdTrack('embd-lnk');" rel="dict">lymphocytosis</a> (increase in lymphocytes).</br>

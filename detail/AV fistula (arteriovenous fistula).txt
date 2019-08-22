@@ -1,0 +1,5 @@
+
+AV fistula (arteriovenous fistula): an abnormal connection between an artery and a vein. This causes blood to flow directly from the artery into the vein, bypassing the capillaries that are located downstream of the fistula, resulting in a diminished blood supply. AV fistulas can occur anywhere in the body, but are common in the legs. Sometimes, an AV fistula is surgically created for <a href="https://www.medicinenet.com/dialysis/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">hemodialysis</a> access.
+
+Recently, nonsurgical, percutaneous procedures are being used to create AV 
+fistulas for dialysis access.

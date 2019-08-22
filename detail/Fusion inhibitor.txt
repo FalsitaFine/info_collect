@@ -1,0 +1,2 @@
+
+Fusion inhibitor: A class of <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=23516" onclick="wmdTrack('embd-lnk');" rel="dict">antiretroviral</a> drugs that work on the outside of the host CD4 cell to prevent HIV from fusing with and infecting it.  Fusion inhibitors act by binding to an envelope protein and blocking the structural changes necessary for the virus to fuse with the host CD4 cell. If HIV cannot penetrate the host cell membrane and infect the cell, HIV cannot replicate within the host cell.

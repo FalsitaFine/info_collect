@@ -1,0 +1,7 @@
+
+Cleidocranial dysplasia: A genetic (inherited) disorder of bone development characterized by:
+<ol>
+<li>Absent or incompletely formed collar bones (the "cleido-" part refers to the clavicles, the collar bones) The child with this disorder can bring its shoulders together or nearly so; and</li>
+<li>Typical cranial and facial abnormalities with square skull, late closure of the sutures of the skull, late closure of the fontanels (the soft spots), low nasal bridge, delayed eruption of the teeth, abnormal permanent teeth, etc.</li>
+</ol>
+The disorder is transmitted in an <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=11974" onclick="wmdTrack('embd-lnk');" rel="dict">autosomal dominant</a> manner. A parent with the condition has a 50:50 chance that each of their children will have the condition. Boys and girls stand an equal chance of being affected. The gene for the condition has been found on chromosome 6 (specifically, in band p21). The gene is for the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=25194" onclick="wmdTrack('embd-lnk');" rel="dict">transcription factor</a> CBFA1 (core-binding factor alpha subunit 1). Mutations of CBFA1 cause this disorder.

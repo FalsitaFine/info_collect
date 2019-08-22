@@ -1,0 +1,2 @@
+
+Connectionism: A theory of information processing that is based on the neurophysiology of the brain. The basic tenets of connectionism are that signals are processed by elementary units (in this case, neurons), processing units are connected in parallel to other processing units, and connections between processing units are weighted. The weights may be hard-wired, learned, or both, and they represent the strengths of connection (either excitatory or inhibitory) between two units.

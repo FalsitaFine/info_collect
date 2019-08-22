@@ -1,0 +1,2 @@
+
+Case-to-infection ratio: The ratio of the number of cases of a disease compared to the number of infections with the agent that causes the disease. Also called the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=26678" onclick="wmdTrack('embd-lnk');" rel="dict">case-to-infection proportion</a>.

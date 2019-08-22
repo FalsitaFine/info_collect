@@ -1,0 +1,2 @@
+
+Diabesity: <a href="https://www.medicinenet.com/diabetes_mellitus/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Diabetes</a> caused by overweight or <a href="https://www.medicinenet.com/obesity_weight_loss/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">obesity</a>. From diabetes + obesity. Synonymous with the usual form of type 2 diabetes. UCLA started a Diabesity Research Program in 1998.

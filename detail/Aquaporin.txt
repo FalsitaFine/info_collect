@@ -1,0 +1,2 @@
+
+Aquaporin: A water channel. Aquaporins form pores in the membranes of cells and selectively conduct water molecules through the membrane, while preventing the passage of ions (such as sodium and potassium) and other small molecules.

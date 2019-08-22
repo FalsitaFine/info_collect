@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/amebiasis_entamoeba_histolytica_infection/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Amebiasis</a>: The state of being infected with amebae, especially with the ameba <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=6526" onclick="wmdTrack('embd-lnk');" rel="dict">Entamoeba histolytica</a>.

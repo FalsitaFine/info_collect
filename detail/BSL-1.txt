@@ -1,0 +1,2 @@
+
+BSL-1: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=14880" onclick="wmdTrack('embd-lnk');" rel="dict">Biosafety level</a> 1. The lowest level of biosafety, a level that applies to agents that do not ordinarily cause human disease.

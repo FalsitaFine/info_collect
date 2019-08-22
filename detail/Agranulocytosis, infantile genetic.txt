@@ -1,0 +1,16 @@
+
+Agranulocytosis, infantile genetic:  Children born with this condition lack neutrophils (a type of white blood cell that is important in fighting infection). These children suffer frequent infections from bacteria which in the past led to death in three-quarters of cases before 3 years of age. This disease is also known as severe congenital <a href="https://www.medicinenet.com/neutropenia/article.htm">neutropenia</a> (SCN).  
+
+Children with SCN have no special problems with viral or fungal infections. They do, however, have an increased risk of developing acute myelogenous <a href="https://www.medicinenet.com/leukemia/article.htm">leukemia</a> or myelodysplasia, a bone marrow disorder. Aside from agranulocytosis, the bone marrow and blood show a number of other abnormalities (including maturational arrest of neutrophil precursors at the promyelocyte stage, absolute monocytosis, eosinophilia and thrombocytosis). The gamma globulin level in blood is low.
+ 
+The inheritance of the disease is autosomal recessive. Both seemingly-normal parents carry an SCN gene while each of their children, boys and girls alike, has a 1 in 4 (25%) risk of receiving both SCN genes and having the disease: severe congenital neutropenia (SCN).
+
+SCN was first clearly described by Kostmann in 1956. It is now known to be caused by a defect in a gene on chromosome 1 (in 1p35-p34.3) that codes for what is called the granulocyte colony-stimulating factor receptor (GCSFR).
+
+Treatment with recombinant human granulocyte colony-stimulating factor (GCSF) elevates the granulocyte counts, helps resolve preexisting infections, diminishes the number of new infections and results in significant improvements in survival and quality of life. Some patients have developed leukemia or myelodysplastic syndrome following treatment with GCSF.  
+
+Congenital neutropenia is due to diverse causes. Not all patients with congenital neutropenia have mutations in the GCSFR gene. 
+
+
+
+Alternative names for severe congenital neutropenia (SCN) include: Kostmann's disease or syndrome, infantile genetic agranulocytosis and genetic infantile agranulocytosis.

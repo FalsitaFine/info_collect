@@ -1,0 +1,2 @@
+
+Glucuronosyltransferase, UDP-: A liver enzyme essential to the disposal of bilirubin (the chemical that results from the normal breakdown of <a href="https://www.medicinenet.com/hemoglobin/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">hemoglobin</a> from red blood cells). The enzyme is responsible for what is called the glucuronidation reaction. UDP acts as a catalyst for the transfer of the glucuronic acid component of UDP-glucuronic acid to a substrate molecule. The resulting glucuronide is more easily eliminated from the body by the kidneys into the urine.

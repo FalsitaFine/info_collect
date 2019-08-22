@@ -1,0 +1,2 @@
+
+Draft DNA sequence: Sequence of a DNA with less accuracy than a finished sequence. In a draft sequence, some segments are missing or are in the wrong order or are oriented incorrectly. A draft sequence is as opposed to a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=16841" onclick="wmdTrack('embd-lnk');" rel="dict">finished DNA sequence</a>.

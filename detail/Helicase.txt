@@ -1,0 +1,2 @@
+
+Helicase: An enzyme that unwinds double-strand DNA into two single DNA strands.

@@ -1,0 +1,2 @@
+
+Microscope, simple: A microscope that has a single converging lens.

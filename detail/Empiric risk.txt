@@ -1,0 +1,2 @@
+
+Empiric risk: The chance that a disease will occur in a family, based on experience with the diagnosis, past history, and medical records rather than theory.

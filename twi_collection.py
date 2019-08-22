@@ -2,7 +2,7 @@ import twint
 import os
 
 source_dir = "./dictionary/"
-limit_info = 500
+limit_info = 100
 mode = "all"
 
 for files in os.listdir(source_dir):
@@ -19,7 +19,7 @@ for files in os.listdir(source_dir):
 			if mode == "all":
 				out_dir = "./twi_collection/" + word + "/" + line + ".csv" 
 				conf = twint.Config()
-				conf.Search = "cancer"
+				conf.Search = line
 				conf.Output = out_dir
 				conf.Limit = limit_info
 				conf.Store_csv = True

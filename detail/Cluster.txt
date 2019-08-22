@@ -1,0 +1,2 @@
+
+Cluster: In epidemiology, an aggregation of cases of a disease or another health-related condition, such as a <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cancer</a> or birth defect, closely grouped in time and place. The number of cases in the cluster may or may not exceed the expected number. This is determined by cluster analysis, a set of statistical methods used to analyze clusters.

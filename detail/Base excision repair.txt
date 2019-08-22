@@ -1,0 +1,2 @@
+
+Base excision repair: A process of DNA repair in which an altered base is excised (removed) by a DNA glycosylase enzyme, followed by <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=38490" onclick="wmdTrack('embd-lnk');" rel="dict">excision</a> of the resulting sugar phosphate. The small gap left in the DNA helix is then filled in by the sequential action of DNA polymerase and DNA ligase. Abbreviated BER.

@@ -1,0 +1,2 @@
+
+AGXT: A gene that provides instructions for making a liver enzyme called alanine-glyoxylate aminotransferase (AGXT). Inside liver cells, this enzyme is found in peroxisomes, structures that contain many different enzymes used to produce energy and the basic materials important for cellular activities. AGXT converts a compound called glyoxylate to glycine, an amino acid that is a building block for making enzymes and other proteins

@@ -1,0 +1,2 @@
+
+Genomic segment: A region of the genome; it encompasses objects described as loci or probes. Genomic segments can range in size from points to regions as large as an entire chromosome.

@@ -1,0 +1,4 @@
+
+Index, body mass (BMI): An index that relates
+body weight to height. The body mass index (BMI) is obtained by dividing a person's weight in kilograms (kg) by their height in meters (m) squared.
+The National Institutes of Health (NIH) now defines normal weight, overweight, and <a href="https://www.medicinenet.com/obesity_weight_loss/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">obesity</a> according to the BMI rather than the traditional height/weight charts. Since the BMI describes the body weight relative to height, it correlates strongly (in adults) with the total body fat content. Overweight is a BMI of 27.3 % or more for women and 27.8 % or more for men, according to the NIH. Obesity is a BMI of 30 and above, according to the NIH. A BMI of 30 is about 30 pounds overweight. Some very muscular people may have a high BMI without undue health risks.

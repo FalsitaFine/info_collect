@@ -1,0 +1,3 @@
+
+Acaricide: An agent, usually a chemical, that kills mites. This class of pesticides is large and includes antibiotic acaricides, carbamate acaricides, formamidine acaricides, mite growth regulators,
+organophosphate acaricides, and many others. From the Latin acarus, a mite + -cide, to kill.

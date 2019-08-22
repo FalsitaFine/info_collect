@@ -1,0 +1,9 @@
+
+Affordable Care Act (ACA): the <a href="https://www.medicinenet.com/affordable_care_act_aca_or_obamacare/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">ACA</a> is the US health care law that was enacted in March 2010. The law consists of two pieces of legislation: the 
+<a href="http://www.gpo.gov/fdsys/pkg/BILLS-111hr3590enr/pdf/BILLS-111hr3590enr.pdf" onclick="popupWarning();" target="_blank">Patient Protection and Affordable Care Act</a> (PPACA) and the  
+<a href="http://www.dpc.senate.gov/healthreformbill/healthbill61.pdf" onclick="popupWarning();" target="_blank">Health Care and Education Reconciliation Act</a> (HCERA). According to the American Public Health Association, the APA 
+"contains numerous provisions that will expand health coverage to 30 million 
+Americans, increase benefits and lower costs for consumers, provide new funding 
+for public health and prevention, bolster our health care and public health 
+workforce and infrastructure, foster innovation and quality in our system, and 
+more."

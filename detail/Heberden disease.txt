@@ -1,0 +1,5 @@
+
+Heberden disease: There are two different Heberden diseases:<ol>
+<li><a href="https://www.medicinenet.com/angina_symptoms/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Angina</a> pectoris, <a href="https://www.medicinenet.com/chest_pain/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">chest pain</a> that is often severe and crushing, due to an inadequate supply of oxygen to the heart muscle. <li><a href="https://www.medicinenet.com/osteoarthritis/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Osteoarthritis</a> of the small joints with nodules (Heberden nodes) in and about the last joint of the finger.</li>
+</li></ol>
+Both diseases were described by the respected English physician William Heberden (1710-1801).

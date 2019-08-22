@@ -1,0 +1,7 @@
+
+Calicivirus: A group of viruses belonging to the family Caliciviridae that includes: <ul>
+<li>Norovirus, a common cause of <a href="https://www.medicinenet.com/food_poisoning/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">food poisoning</a> and acute <a href="https://www.medicinenet.com/gastroenteritis_stomach_flu/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">gastroenteritis</a> in humans; <li>Sapovirus, formerly called "Sapporo-like virus" (SLV) and sometimes referred to as classic or typical calicivirus, which can also cause gastroenteritis in humans; <li>Vesivirus, the swine vesicular exanthema virus; and
+<li>Lagovirus, the rabbit haemorrhagic disease virus.
+</li></li></li></li></ul>
+The hepatitis E virus, once considered a calicivirus, now belongs to an unassigned (or floating) genus called the hepatitis E-like viruses.
+All of the caliciviruses are single-stranded RNA, nonenveloped viruses. Their genetic information is encoded in a single strand of RNA and they lack an envelope. The name calicivirus comes from their characteristic "Star of David" shape with cup-shaped (chalice) indentations.

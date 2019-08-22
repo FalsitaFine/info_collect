@@ -1,0 +1,2 @@
+
+Beta particle: An electron ejected from the nucleus of a decaying atom. Although beta particles can be stopped by a thin sheet of aluminum, they can penetrate the dead skin layer, potentially causing <a href="https://www.medicinenet.com/burns/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">burns</a>. They can pose a serious direct or external radiation threat and can be lethal depending on the amount received. They also pose a serious internal radiation threat if beta-emitting atoms are ingested or inhaled.

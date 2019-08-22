@@ -1,0 +1,8 @@
+
+Cryptography: The encoding and decoding of secret messages. 
+<u>Cryptography in genetics:</u> The term "cryptography" can be applied to human DNA since the message of life is encoded in DNA. And for eons even the existence of DNA was unknown and the information therein an unfathomed mystery.
+The decoding of DNA in the human genome project is essentially an <a href="https://www.medicinenet.com/exercise/article.htm" onclick="wmdTrack('embd-lnk');" rel="sub">exercise</a> in cryptography, the greatest piece of cryptography ever undertaken in human history. However, this cryptographic project is incomplete since, although the sequence of most of the DNA has been determined, we are still far from understanding all of the many messages encoded within it.
+
+<u>Etymology:</u> The word "cryptography" traces back to
+the Greek roots "kryptos," meaning "hidden," and "graphein,"
+meaning "to write" = "to write secret(ly)."

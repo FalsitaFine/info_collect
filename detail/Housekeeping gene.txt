@@ -1,0 +1,2 @@
+
+Housekeeping gene: A gene involved in basic functions needed for the sustenance of the cell. Housekeeping genes are constitutively expressed (they are always turned ON).

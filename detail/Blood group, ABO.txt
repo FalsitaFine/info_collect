@@ -1,0 +1,2 @@
+
+Blood group, ABO: The major human blood group system. The ABO type of a person depends on the presence or absence of two genes, A and B. These genes determine the configuration of the red blood cell surface. A person who has two A genes has red blood cells of type A. A person who has two B genes has red cells of type B. If the person has one A and one B gene, the red cells are type AB. If the person has neither the A nor the B gene, the red cells are type O. It is essential to match the ABO status of both donor and recipient in blood transfusions and organ transplants.

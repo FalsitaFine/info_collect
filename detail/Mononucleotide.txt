@@ -1,0 +1,2 @@
+
+Mononucleotide: A single base pair. A <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=39352" onclick="wmdTrack('embd-lnk');" rel="dict">trinucleotide</a> (a triplet of base pairs) may be split into a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=39353" onclick="wmdTrack('embd-lnk');" rel="dict">dinucleotide</a> and a mononucleotide.

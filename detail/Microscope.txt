@@ -1,0 +1,6 @@
+
+Microscope: An optical instrument that augments the power of the eye
+to see small objects. The name microscope was coined by Johannes Faber (1574-1629) who in
+1628 borrowed from the Greek to combined micro-, small with skopein, to view. Although the
+first microscopes were simple microscopes, most (if not all) optical microscopes today are
+compound microscopes.

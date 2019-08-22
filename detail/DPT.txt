@@ -1,0 +1,12 @@
+
+DPT: <a href="https://www.medicinenet.com/diphtheria_facts/article.htm">Diphtheria</a>-Pertussis-Tetanus vaccine. Today the more
+frequent abbreviation is <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3126">DTP</a> (for Diphtheria-Tetanus-Pertussis vaccine).                                                         
+                            <!--CONTINUEREADING-->
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/4/2018</span></i></div><a class="mediaPrmo quiz" href="https://www.medicinenet.com/dental_oral_health_quiz/quiz.htm" onclick="wmdTrack('quizprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com/images/quiz/dental-health/s1.jpg"/>
+<span class="skew"></span>
+<span class="icon-quiz"></span>
+<h4 class="label">QUESTION</h4>
+<span class="caption">What causes tooth decay?</span>
+<span class="btn">See Answer</span>
+</a>

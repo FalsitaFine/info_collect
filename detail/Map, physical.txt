@@ -1,0 +1,7 @@
+
+Map, physical: A map of the locations of identifiable
+landmarks on chromosomes. Physical distance is measured in base pairs. The <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4886" onclick="wmdTrack('embd-lnk');" rel="dict">physical map </a>
+differs from the genetic map which is based purely on genetic linkage data. In the human
+genome, the lowest-resolution physical map is the banding patterns of the 24 different
+chromosomes. The highest-resolution physical map is the complete nucleotide sequence of
+all chromosomes, a future goal. 

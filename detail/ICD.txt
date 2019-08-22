@@ -1,0 +1,2 @@
+
+ICD: Implantable cardiac defibrillator, a device that is put within the body and is designed to recognize certain types of <a href="https://www.medicinenet.com/heart_rhythm_disorders/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">abnormal heart rhythms</a> (arrhythmias) and correct them.

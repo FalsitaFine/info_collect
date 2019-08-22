@@ -1,0 +1,4 @@
+
+Hapten: In <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3941" onclick="wmdTrack('embd-lnk');" rel="dict">immunology</a>, a molecule that is incapable, alone, of causing the production of antibodies but which can do so when fastened to a larger antigenic molecule called a carrier.
+
+The term "hapten" was taken from the Greek verb "haptein" meaning "to fasten or bind."  Haptin and haptene are alternative forms of this term that was first introduced into usage by the pioneering German bacteriologist and <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3940" onclick="wmdTrack('embd-lnk');" rel="dict">immunologist</a> Paul Erlich (1854-1915).

@@ -1,0 +1,4 @@
+
+MCP1: Monocyte chemotactic protein-1, a member of the small inducible gene (SIG) family, plays a role in the recruitment of monocytes to sites of injury and infection.
+The gene for MCP1 is on chromosome 17 in region 17q11.2-q12.
+MPC1 has been found in the joints of people with <a href="https://www.medicinenet.com/rheumatoid_arthritis/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">rheumatoid arthritis</a> where may serve to recruit macrophages and perpetuate the inflammation in the joints. MPC1 has also been found elevated in the urine of people with <a href="https://www.medicinenet.com/systemic_lupus/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">lupus</a> as a sign warning of inflammation of the kidney.

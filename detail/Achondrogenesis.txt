@@ -1,0 +1,11 @@
+
+Achondrogenesis: A <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3573">genetic</a> disorder of bone. There are a number of different types of achondrogenesis.                                                         
+                            <div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/ehlers-danlos_syndrome/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/21/2018</span></i></div><a class="mediaPrmo ss" href="https://www.medicinenet.com/childrens_health_illnesses_pictures_slideshow/article.htm" onclick="wmdTrack('ssprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com//images/slideshow/childhood-illnesses-s1-sick-child-wiping-nose.jpg"/>
+<span class="skew"></span>
+<span class="icon-slideshow"></span>
+<h4 class="label">SLIDESHOW</h4>
+<span class="caption">Childhood Diseases: Measles, Mumps, &amp; More</span>
+<span class="btn">See Slideshow</span>
+</a>

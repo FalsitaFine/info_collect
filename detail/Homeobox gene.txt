@@ -1,0 +1,2 @@
+
+Homeobox gene: A gene containing a short DNA sequence of about 180 base pairs referred to as a homeobox. Homeobox genes encode proteins that bind and regulate the expression of DNA in <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=33379" onclick="wmdTrack('embd-lnk');" rel="dict">multicellular</a> organisms. Homeoboxes are present in the genomes of many organisms from fruit flies to humans, and they appear to determine when particular groups of genes are expressed during embryonic development.

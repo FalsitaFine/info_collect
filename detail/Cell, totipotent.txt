@@ -1,0 +1,5 @@
+
+Cell, totipotent: A cell with the capacity to form an entire organism. 
+Human development begins when a sperm fertilizes an egg and creates a single totipotent cell. In the first hours after fertilization, this cell divides into identical totipotent cells. Approximately four days after fertilization and after several cycles of cell division, these totipotent cells begin to specialize.
+
+Totipotent is as opposed to <u>pluripotent</u> and <u>multipotent</u>. Totipotent cells have total potential. They specialize into pluripotent cells that can give rise to most, but not all, of the tissues necessary for fetal development. Pluripotent cells undergo further specialization into multipotent cells that are committed to give rise to cells that have a particular function. For example, multipotent blood <a href="https://www.medicinenet.com/stem_cells/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">stem cells</a> give rise to the red cells, white cells and platelets in the blood.

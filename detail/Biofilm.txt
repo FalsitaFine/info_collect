@@ -1,0 +1,8 @@
+
+Biofilm: An aggregate of microbes with a distinct architecture. A biofilm is like a tiny city in which microbial cells, each only a micrometer or two long, form towers that can be hundreds of micrometers high. The "streets" between the towers are really fluid-filled channels that bring in nutrients, oxygen and other necessities for live biofilm communities. 
+Biofilms form on the surface of catheter lines and contact lenses. They grow on pacemakers, heart valve replacements, artificial joints and other surgical implants. The CDC (Centers for Disease Control) estimate that over 65% of nosocomial (hospital-acquired) infections are caused by biofilms. 
+Bacteria growing in a biofilm are highly resistant to antibiotics, up to 1,000 times more resistant than the same bacteria not growing in a biofilm. Standard antibiotic therapy is often useless and the only recourse may be to remove the contaminated implant.
+
+Fungal biofilms also frequently contaminate medical devices. They cause chronic vaginal infections and lead to life-threatening systemic infections in people with hobbled immune systems.
+
+Biofilms are involved in numerous diseases. For instance, <a href="https://www.medicinenet.com/cystic_fibrosis/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cystic fibrosis</a> patients have Pseudomonas infections that often result in antibiotic resistant biofilms.

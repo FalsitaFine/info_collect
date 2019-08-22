@@ -1,0 +1,4 @@
+
+Disease, Plummer's: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=5826" onclick="wmdTrack('embd-lnk');" rel="dict">Toxic multinodular goiter</a>, a
+condition in which the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=5778" onclick="wmdTrack('embd-lnk');" rel="dict">thyroid gland</a> contains multiple lumps (nodules) that are overactive
+and produce excess <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=5780" onclick="wmdTrack('embd-lnk');" rel="dict">thyroid hormones</a>. This condition is also known as <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4789" onclick="wmdTrack('embd-lnk');" rel="dict">Parry's disease</a>.

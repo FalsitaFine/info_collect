@@ -1,0 +1,2 @@
+
+ADCC (antibody-dependent cell-mediated cytotoxicity): An <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3906" onclick="wmdTrack('embd-lnk');" rel="dict">immune response</a> in which antibodies, by coating target cells, makes them vulnerable to attack by immune cells. <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=10096" onclick="wmdTrack('embd-lnk');" rel="dict">Antibody-dependent cell-mediated cytotoxicity</a> is commonly (and blissfully) abbreviated ADCC.

@@ -1,0 +1,12 @@
+
+Differentiation: 1  The process by which cells become progressively more specialized; a normal process through which cells mature. This process of specialization for the cell comes at the expense of its breadth of potential. <a href="https://www.medicinenet.com/stem_cells/article.htm">Stem cells</a> can, for example, differentiate into secretory cells in the intestine. 
+2 In <a href="https://www.medicinenet.com/cancer/article.htm">cancer</a>, differentiation refers to how mature (developed) the cancer cells are in a tumor. Differentiated tumor cells resemble normal cells and tend to grow and spread at a slower rate than undifferentiated or poorly differentiated tumor cells, which lack the structure and function of normal cells and grow uncontrollably.                                                         
+                            <div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/stem_cells/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed"><i>Last Editorial Review: 1/25/2017</i></div><a class="mediaPrmo quiz" href="https://www.medicinenet.com/dental_oral_health_quiz/quiz.htm" onclick="wmdTrack('quizprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com/images/quiz/dental-health/s1.jpg"/>
+<span class="skew"></span>
+<span class="icon-quiz"></span>
+<h4 class="label">QUESTION</h4>
+<span class="caption">What causes tooth decay?</span>
+<span class="btn">See Answer</span>
+</a>

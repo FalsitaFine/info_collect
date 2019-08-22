@@ -1,0 +1,2 @@
+
+Chromosome inversion, pericentric: A basic type of chromosome rearrangement in which a segment that includes the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2668" onclick="wmdTrack('embd-lnk');" rel="dict">centromere</a> (and is therefore pericentric) is snipped out of a chromosome, inverted, and inserted back into the chromosome. The feature that makes it pericentric is that the breaks are on both sides of the centromere.

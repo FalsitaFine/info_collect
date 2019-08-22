@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/influenza/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Flu</a> vaccine: In 2010, the United States Advisory Committee on Immunization Practices (ACIP) expanded the recommendation for influenza vaccination to include all individuals six months of age and older.

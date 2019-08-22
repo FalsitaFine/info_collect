@@ -1,0 +1,7 @@
+
+Centimorgan (cM): A unit of measure of genetic
+recombination frequency. One cM is equal to a 1% chance that a marker at one genetic locus
+will be separated from a marker at another locus due to <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2871" onclick="wmdTrack('embd-lnk');" rel="dict">crossing over</a> in a single
+generation. In humans, 1 cM is equivalent, on average, to 1 million base pairs. The
+ centimorgan is named after the pioneering (and Nobel Prize winning) geneticist Thomas Hunt
+Morgan.

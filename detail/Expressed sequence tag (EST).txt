@@ -1,0 +1,4 @@
+
+Expressed sequence tag (EST): A unique stretch of DNA within a coding region of a gene that is useful for identifying full-length genes and serves as a landmark for mapping. An EST is a sequence tagged site (STS) derived from cDNA.
+
+An STS is a short segment of DNA which occurs but once in the genome and whose location and base sequence are known. STSs are detectable by the polymerase chain reaction (<a href="https://www.medicinenet.com/pcr_polymerase_chain_reaction/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">PCR</a>), are helpful in localizing and orienting mapping and sequence data, and serve as landmarks in the physical map of the genome.

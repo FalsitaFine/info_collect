@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/menstruation/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Menstruation</a>, retrograde: The flow of menstrual blood from the uterus into the Fallopian tubes, and potentially into the abdomen. This condition may lead to <a href="https://www.medicinenet.com/endometriosis/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">endometriosis</a>.

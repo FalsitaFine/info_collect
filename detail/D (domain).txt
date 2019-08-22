@@ -1,0 +1,2 @@
+
+D (domain): Abbreviation for domain, a discrete portion of a protein with its own function. The combination of domains in a single protein determines its overall function.

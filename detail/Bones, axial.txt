@@ -1,0 +1,3 @@
+
+Bones, axial: There are 80 axial bones, comprised 
+of 29 bones in the head and 51 bones in the trunk.

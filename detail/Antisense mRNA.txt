@@ -1,0 +1,2 @@
+
+Antisense mRNA: An mRNA (<a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4357" onclick="wmdTrack('embd-lnk');" rel="dict">messenger RNA</a>) transcript that is complementary to endogenous mRNA. Antisense mRNA is the noncoding strand complementary to the coding sequence of mRNA. Introducing a transgene coding for antisense mRNA is a strategy used to block expression of a gene of interest.

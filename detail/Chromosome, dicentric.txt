@@ -1,0 +1,2 @@
+
+Chromosome, dicentric: A chromosome that is abnormal in that it has two centromeres rather than one. Because the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2668" onclick="wmdTrack('embd-lnk');" rel="dict">centromere</a> is essential for chromosome division, a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2989" onclick="wmdTrack('embd-lnk');" rel="dict">dicentric chromosome</a> is pulled in opposite directions when the cell divides. This causes the chromosome to form a bridge and then break and be unstable. 

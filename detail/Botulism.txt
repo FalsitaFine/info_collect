@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/botulism/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Botulism</a>: An uncommon, but potentially very serious illness, a type of <a href="https://www.medicinenet.com/food_poisoning/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">food poisoning</a>, that produces paralysis of muscles via a nerve toxin called botulinum toxin ("<a href="https://www.medicinenet.com/botox_treatment/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">botox</a>") that is manufactured by bacteria named <i>Clostridium botulinum</i>.

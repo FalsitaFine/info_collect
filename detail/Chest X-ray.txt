@@ -1,0 +1,2 @@
+
+Chest X-ray: A type of X-ray commonly used to detect abnormalities in the lungs. A <a href="https://www.medicinenet.com/chest_x-ray/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">chest X-ray</a> can also detect some abnormalities in the heart, aorta, and the bones of the thoracic area.

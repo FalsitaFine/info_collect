@@ -1,0 +1,2 @@
+
+Intron: Part of a gene that is initially transcribed into the primary RNA transcript but is later removed from it when the exon sequences on either side of it are spliced together. Also known as <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4001" onclick="wmdTrack('embd-lnk');" rel="dict">intervening sequence</a>.

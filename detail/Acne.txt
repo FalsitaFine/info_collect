@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/acne/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Acne</a>: Localized skin inflammation as a result of overactivity of the oil glands at the base of specialized hair follicles. Acne happens when oil (sebaceous) glands come to life around <a href="https://www.medicinenet.com/puberty/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">puberty</a>, when these glands are stimulated by male hormones that are produced in the adrenal glands of both boys and girls.

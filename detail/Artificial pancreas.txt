@@ -1,0 +1,2 @@
+
+Artificial pancreas: A machine that constantly measures <a href="https://www.medicinenet.com/glucose/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">glucose</a> (sugar) in the blood and, in response to an elevated level of glucose, releases an appropriate amount of <a href="https://www.medicinenet.com/insulin/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">insulin</a>. In this respect, an artificial pancreas functions like a natural pancreas.

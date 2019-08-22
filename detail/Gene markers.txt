@@ -1,0 +1,5 @@
+
+Gene markers: Detectable genetic traits or distinctive segments
+of DNA that serve as landmarks for a target gene. Markers are on the same chromosome as
+the target gene. They must be near enough to the target gene to be genetically linked to
+it: to be inherited usually together with that gene, and so serve as signposts to it. 

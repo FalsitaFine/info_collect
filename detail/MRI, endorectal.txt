@@ -1,0 +1,2 @@
+
+MRI, endorectal: An <a href="https://www.medicinenet.com/mri_scan/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">MRI</a> (<a href="https://www.medicinenet.com/mri_scan/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">magnetic resonance imaging</a>) done from inside the rectum. To do such an MRI, a surface coil within an inflated latex balloon can be positioned in the rectum. The MRI is read (interpreted) and specific areas of suspicion are identified. The MRI data can be mapped onto a 3-dimensional model to determine strategy.

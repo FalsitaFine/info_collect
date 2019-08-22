@@ -1,0 +1,9 @@
+
+Arrhythmia: An abnormal heart rhythm. 
+In an <a href="https://www.medicinenet.com/arrhythmia_irregular_heartbeat/article.htm">arrhythmia</a> the heartbeats may be too
+slow, too rapid, too irregular, or too early. Rapid arrhythmias (greater than 100 beats per
+minute) are called tachycardias. Slow arrhythmias (slower than 60 beats per minute) are
+called bradycardias. Irregular heart rhythms are called fibrillations (as in atrial
+fibrillation and ventricular fibrillation). When a single heartbeat occurs earlier than normal, it is called a
+premature contraction.
+The term arrhythmia comes from the Greek a-, loss + rhythmos, rhythm = loss of rhythm.

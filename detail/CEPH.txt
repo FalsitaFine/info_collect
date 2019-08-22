@@ -1,0 +1,6 @@
+
+CEPH: The Centre d'Etudes du Polymorphisme Humain
+(CEPH), an internationally renowned research laboratory created in Paris in 1984 by
+Professor Jean Dausset (Nobel Prize, Medicine and Physiology, 1980) to provide the
+scientific community with resources for <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3818" onclick="wmdTrack('embd-lnk');" rel="dict">human genome</a> mapping. Also known as the Foundation
+Jean Dausset-CEPH. 

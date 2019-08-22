@@ -1,0 +1,2 @@
+
+Disease-free survival: The length of time after treatment during which no disease is found. Can be reported for an individual patient or for a study population. "Disease-free survival predicts survival. It always has. And there is a very big decrease in <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cancer</a> incidence so there will be a survival difference." (Dr. Larry Norton, in The New York Times, Oct 10, 2003)

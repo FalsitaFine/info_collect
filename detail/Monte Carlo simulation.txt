@@ -1,0 +1,2 @@
+
+Monte Carlo simulation: A statistical method used in biomedical research, involving computer simulation in which data are randomly shuffled many different times, enabling assessment of the probabilities of certain known outcomes.

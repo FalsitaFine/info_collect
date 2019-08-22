@@ -1,0 +1,9 @@
+
+Internist: A physician who specializes in the diagnosis and
+medical treatment of adults. This specialty, called internal medicine, is dedicated to
+adult medicine. A minimum of seven years of medical school and postgraduate training are
+focused on learning the prevention, diagnosis, and treatment of diseases of adults.
+Subspecialties of internal medicine include <a href="https://www.medicinenet.com/allergy/article.htm">allergy</a> and immunology, cardiology (heart),
+endocrinology (hormone disorders), hematology (blood disorders), infectious diseases,
+gastroenterology (diseases of the gut), nephrology (kidney diseases), oncology (cancer),
+pulmonology (lung disorders), and rheumatology (<a href="https://www.medicinenet.com/arthritis/article.htm">arthritis</a> and musculoskeletal disorders).

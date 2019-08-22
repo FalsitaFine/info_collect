@@ -1,0 +1,2 @@
+
+MALT: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4447" onclick="wmdTrack('embd-lnk');" rel="dict">Mucosa</a>-associated <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4224" onclick="wmdTrack('embd-lnk');" rel="dict">lymphoid tissue</a>.

@@ -1,0 +1,6 @@
+
+Linkage map: A map of the genes on a chromosome based on linkage
+analysis. A linkage map does not show the physical distances between genes but rather
+their relative positions, as determined by how often two gene loci are inherited together.
+The closer two genes are (the more tightly they are linked), the more often they will be
+inherited together. Linkage distance is measured in centimorgans (cM).

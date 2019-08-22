@@ -1,0 +1,2 @@
+
+CNS prophylaxis: <a href="https://www.medicinenet.com/chemotherapy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">Chemotherapy</a> or <a href="https://www.medicinenet.com/radiation_therapy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">radiation therapy</a> to the central nervous system (CNS) as a preventive treatment. CNS prophylaxis is given to kill <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cancer</a> cells that may be in the brain and spinal cord, even though no cancer has been detected there.

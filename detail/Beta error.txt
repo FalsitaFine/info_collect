@@ -1,0 +1,2 @@
+
+Beta error: The statistical error (said to be 'of the second kind,' or type II) that is made in testing when it is concluded that something is negative when it really is positive. Also known as <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3376" onclick="wmdTrack('embd-lnk');" rel="dict">false negative</a>.

@@ -1,0 +1,5 @@
+
+Eye chart, Snellen's:  The familiar eye chart used to measure how well you see at various distances. 
+Snellen's chart is imprinted with block letters that line-by-line decrease in size, corresponding to the distance at which that line of letters is normally visible. 
+The letters on Snellen's chart are, not surprisingly, called Snellen's test type. Each block letter is quite scientific in design (so that at the appropriate distance the letter subtends a visual angle of 5 degrees and each component part subtends an angle of 1 minute).    
+The chart and the letters are named for a 19th-century Dutch ophthalmologist Hermann Snellen (1834-1908) who came up with them as a test of visual acuity.  Visual acuity refers to the clarity or clearness of the vision, a measure of how well a person sees. The word "acuity" comes from the Latin "acuitas" = sharpness.

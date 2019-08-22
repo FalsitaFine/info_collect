@@ -1,0 +1,4 @@
+
+<a href="https://www.medicinenet.com/acetylsalicylic_acid/article.htm" onclick="wmdTrack('embd-lnk');" rel="PHARM">Aspirin</a> resistance: 1. The inability of aspirin to protect a person from cardiovascular events such as <a href="https://www.medicinenet.com/heart_attack/article.htm">heart attacks</a> and <a href="https://www.medicinenet.com/stroke_symptoms_and_treatment/article.htm">strokes</a>. This has been called clinical aspirin resistance.<br><br>
+2. The inability of aspirin to produce an anticipated effect on one or more tests of platelet function. This has been called biochemical aspirin resistance, although the tests are not all truly biochemical in nature.
+See:  <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=33670">Biochemical aspirin resistance</a>; <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=33669">Clinical aspirin resistance</a>.

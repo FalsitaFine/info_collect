@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/exercise/article.htm" onclick="wmdTrack('embd-lnk');" rel="sub">Exercise</a>-induced bronchospasm:  Also called exercise- induced asthma, this is asthma that is triggered by vigorous physical activity. <a href="https://www.medicinenet.com/exercise-induced_asthma/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Exercise-induced asthma</a> tends particularly to affect children and young adults (because of their high level of physical activity) but can occur at any age.

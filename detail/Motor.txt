@@ -1,0 +1,2 @@
+
+Motor: Something that produces or refers to motion. For example, a motor neuron is a nerve cell that conveys an impulse to a muscle for contraction, which then moves a joint.

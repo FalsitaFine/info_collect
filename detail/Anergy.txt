@@ -1,0 +1,2 @@
+
+Anergy: A state of immune unresponsiveness. Induced when the T cell's antigen receptor is stimulated, effectively freezing T cell responses pending a "second signal" from the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=10098" onclick="wmdTrack('embd-lnk');" rel="dict">antigen-presenting cell</a>. The delivery of the second signal by the antigen-presenting cell rescues the activated T cell from anergy, allowing it to produce the lymphokines necessary for the growth of additional T cells.

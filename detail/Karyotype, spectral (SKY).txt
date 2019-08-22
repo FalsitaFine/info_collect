@@ -1,0 +1,2 @@
+
+Karyotype, spectral (SKY): A visualization of all of the chromosomes in the genome all together with each chromosome labeled with a different color. The <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=15219" onclick="wmdTrack('embd-lnk');" rel="dict">SKY</a> technique is useful for identifying chromosome abnormalities.

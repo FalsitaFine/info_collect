@@ -1,0 +1,2 @@
+
+CNPs: Copy number polymorphisms.

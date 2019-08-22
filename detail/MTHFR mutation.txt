@@ -1,0 +1,3 @@
+
+MTHFR mutation: a genetic change in the gene that codes for the enzyme 
+methylenetetrahydrofolate reductase. This enzyme is involved in breaking down the amino acid <a href="https://www.medicinenet.com/homocysteine/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">homocysteine</a>.  Having a defect in this enzyme leads to elevated blood and urine levels of homocysteine. 

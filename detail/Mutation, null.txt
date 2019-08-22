@@ -1,0 +1,2 @@
+
+Mutation, null: A mutation (a change) in a gene that leads to its not being transcribed into RNA and/or translated into a functional protein product. For example, a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4599" onclick="wmdTrack('embd-lnk');" rel="dict">null mutation</a> in a gene that usually encodes a specific enzyme leads to the production of a nonfunctional enzyme or no enzyme at all.

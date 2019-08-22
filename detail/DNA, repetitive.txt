@@ -1,0 +1,3 @@
+
+DNA, repetitive: DNA sequences that are repeated in the
+genome. These sequences do not code for protein. One class termed highly <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=5309" onclick="wmdTrack('embd-lnk');" rel="dict">repetitive DNA</a> consists of short sequences, 5-100 nucleotides, repeated thousands of times in a single stretch and makes up <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=5411" onclick="wmdTrack('embd-lnk');" rel="dict">satellite DNA</a>. Another class termed moderately repetitive DNA consists of longer sequences, about 150-300 nucleotides, dispersed evenly throughout the genome, and includes what are called Alu sequences and transposons. 

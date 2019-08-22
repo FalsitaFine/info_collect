@@ -1,0 +1,4 @@
+
+Catheterization, venous: The insertion of a tiny tube (a catheter) into a peripheral or central vein to deliver fluids or medication. This is the most frequently used method for the administration of intravenous (IV) fluids and IV meds (medications).
+The most common complications of venous catheterization are infiltration of fluid around the catheter, failure of the line to stay open, and infection somewhere along the length of
+the catheter (catheter <a href="https://www.medicinenet.com/sepsis/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">sepsis</a>).

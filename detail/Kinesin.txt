@@ -1,0 +1,2 @@
+
+Kinesin: A family of microtubule motor proteins active in <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4404" onclick="wmdTrack('embd-lnk');" rel="dict">mitosis</a>. The kinesins use chemical energy from the hydrolysis of ATP (adenosine triphosphatase) to generate mechanical force. They  bind tightly to and move along the microtubules. The kinesins are not related in sequence to the other known class of microtubule motor proteins, the dyneins.

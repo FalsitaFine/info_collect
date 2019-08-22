@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/glaucoma/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Glaucoma</a>: A common eye condition in which the fluid pressure inside the eye rises to a level higher than healthy for that eye. If untreated, it may damage the optic nerve, causing the loss of vision or even <a href="https://www.medicinenet.com/blindness/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">blindness</a>.

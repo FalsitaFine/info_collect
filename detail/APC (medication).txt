@@ -1,0 +1,2 @@
+
+APC (medication): <a href="https://www.medicinenet.com/acetylsalicylic_acid/article.htm" onclick="wmdTrack('embd-lnk');" rel="PHARM">Aspirin</a>, phenacetin, and <a href="https://www.medicinenet.com/caffeine/article.htm" onclick="wmdTrack('embd-lnk');" rel="sub">caffeine</a> (a pill containing all three).  Phenacetin was the first nonsteroidal anti-inflammatory drug (NSAID) to be associated with <a href="https://www.medicinenet.com/kidney_failure/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">kidney failure</a>. 

@@ -1,0 +1,2 @@
+
+DNA sequence: The precise ordering of the bases (A, T, G, C) from which DNA is composed. Base pairs form naturally only between A and T and between G and C, so the base sequence of each single strand of DNA can be simply deduced from that of its partner strand. The DNA nucleotide code is in triplets, such as ATG; the base sequence of ATG's partner strand would be TAC.

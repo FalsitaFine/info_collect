@@ -1,0 +1,2 @@
+
+Error, alpha: The statistical error made in testing a hypothesis when it is concluded that a result is positive, but it really is not. Also known as false positive.

@@ -1,0 +1,2 @@
+
+Interneuron: A neuron that exclusively signals another neuron.

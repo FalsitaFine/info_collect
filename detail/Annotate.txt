@@ -1,0 +1,2 @@
+
+Annotate: In <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=15390" onclick="wmdTrack('embd-lnk');" rel="dict">genetics</a>, to identify the locations and the coding regions of genes in a genome and determine what those genes do. To annotate (irrespective of the context) is to add a note by way of explanation or commentary. Once a genome is sequenced, it needs to be annotated to make sense of it.

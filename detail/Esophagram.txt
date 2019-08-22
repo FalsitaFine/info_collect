@@ -1,0 +1,4 @@
+
+Esophagram: A series of X-ray images of the esophagus. The X-ray pictures are taken after
+the patient drinks a barium solution that coats and outlines the walls of the esophagus. Also
+called a <a href="https://www.medicinenet.com/upper_gi_series/article.htm">barium swallow</a>.

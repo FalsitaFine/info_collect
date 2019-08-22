@@ -1,0 +1,2 @@
+
+Geiger counter: The most commonly used portable radiation detection and measuring instrument, consisting of a gas-filled tube containing electrodes, between which an electrical voltage but no current flows. When ionizing radiation passes through the tube, a short, intense pulse of current passes from the negative electrode to the positive electrode and is measured or counted. The number of pulses per second measures the intensity of the radiation field. Geiger counters are highly sensitive to beta particles but relatively insensitive to gamma rays and x-rays.

@@ -1,0 +1,3 @@
+
+C-IBS: <a href="https://www.medicinenet.com/constipation/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Constipation</a>-predominant IBS (<a href="https://www.medicinenet.com/irritable_bowel_syndrome_ibs_triggers_prevention/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">irritable bowel syndrome</a>).
+c-IBS: <a href="https://www.medicinenet.com/constipation/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Constipation</a>-predominant IBS (<a href="https://www.medicinenet.com/irritable_bowel_syndrome_ibs_triggers_prevention/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">irritable bowel syndrome</a>).

@@ -1,0 +1,3 @@
+
+Mismatch repair: A system within the cell for correcting errors in DNA that works by detecting and replacing bases in the DNA that are wrongly paired (mismatched bases). The system repairs the mismatch.
+When there is a mismatch in the DNA, a mismatch correction enzyme goes to that strand of DNA and removes a segment of the strand containing the mismatched base. The gap in the strand is then filled through the action of the enzyme DNA polymerase.

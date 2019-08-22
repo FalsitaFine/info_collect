@@ -1,0 +1,8 @@
+
+Genetics, transplantation: The field of biology and medicine relating to the genes that govern the acceptance or rejection of a transplant.
+
+The most important genes deciding the fate of a transplanted cell, tissue, or organ belong to what is termed the MHC (the major histocompatibility complex). The MHC was first identified through <a href="https://www.medicinenet.com/tumor_grade/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">tumor</a> transplantation studies in mice by Peter Gorer in 1937. In 1980 George Snell, Jean Dausset and Baruj Benacerraf received the Nobel prize in Physiology or Medicine for their contributions to the discovery and understanding of the MHC. 
+The MHC is the most highly polymorphic genetic system expressed in people. By "polymorphic" is meant that there are multiple forms of the gene (polymorphisms) occurring at a given gene locus. The chance for unrelated people to be MHC-identical is low.
+
+The main function of the MHC antigens is peptide presentation to the immune system to help distinguish self from non-self. These antigens are called HLA (human leukocyte antigens).  They consists of three regions: class I (HLA-A,B,Cw), class II (HLA-DR,DQ,DP) and class III (no HLA genes). 
+The need for HLA matching depends on the type of transplant. In bone marrow transplantation, HLA matching is an absolute necessity, lest the cells be rejected. In corneal transplantation, HLA matching is less relevant because of the lack of blood vessels in the cornea and the "immunological privilege" of the cornea. HLA matching is not crucial but is beneficial to the success of most solid organ transplantation including kidney, liver, heart, lung, pancreas, and intestine.

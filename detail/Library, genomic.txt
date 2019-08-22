@@ -1,0 +1,2 @@
+
+Library, genomic: A collection of clones that is made from a set of randomly generated overlapping DNA fragments and that represents the entire genome of an organism. Also known as clone bank.

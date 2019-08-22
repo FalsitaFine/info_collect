@@ -1,0 +1,10 @@
+
+Arrayed library: In genetics, an arrayed library
+consists of (in technical terms) individual primary recombinant clones which are hosted in
+phage, cosmid, YAC, or another vector that have been placed in two- dimensional arrays in
+microtiter dishes (<a href="https://www.medicinenet.com/plastic/article.htm" onclick="wmdTrack('embd-lnk');" rel="sub">plastic</a> dishes with an orderly array of tiny wells). Each primary clone
+can be identified by the identity of the plate and the clone location (row and column) on
+that plate. Arrayed libraries of clones are used for many purposes, including screening
+for a specific gene or genomic region. The information gathered on individual clones from
+genetic linkage and physical map studies is then entered into a database and used to
+construct physical and genetic linkage maps

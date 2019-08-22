@@ -1,0 +1,6 @@
+
+Chain-termination codon: A set of three adjacent bases in the DNA or their complementary bases in <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4357" onclick="wmdTrack('embd-lnk');" rel="dict">messenger RNA</a> that specifies the end of a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=7766" onclick="wmdTrack('embd-lnk');" rel="dict">polypeptide</a> chain.
+
+The three chain-termination codons (in messenger RNA) are UAA, UAG, and UGA. They are also called termination codons, stop codons, or nonsense codons.
+
+ U = <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=13999" onclick="wmdTrack('embd-lnk');" rel="dict">uracil</a>; A = <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2143" onclick="wmdTrack('embd-lnk');" rel="dict">adenine</a>; G = guanine.

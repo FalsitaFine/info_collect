@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/kidney_stones/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Kidney stones</a>, cystine: Cystine kidney stones are due to <a href="https://www.medicinenet.com/cystinuria/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cystinuria</a>, an inherited (genetic) disorder of the transport of an amino acid (a building block of protein) called cystine. The result is an excess of cystine in the urine (cystinuria) and the formation of cystine stones.

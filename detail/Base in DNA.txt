@@ -1,0 +1,4 @@
+
+Base in DNA: A unit of the DNA. There are 4 bases: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2143" onclick="wmdTrack('embd-lnk');" rel="dict">adenine</a> (A),
+guanine (G), <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=5774" onclick="wmdTrack('embd-lnk');" rel="dict">thymine</a> (T), and <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2908" onclick="wmdTrack('embd-lnk');" rel="dict">cytosine</a> (C). The sequence of bases (for example, CAG) is
+the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3574" onclick="wmdTrack('embd-lnk');" rel="dict">genetic code</a>. 

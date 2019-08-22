@@ -1,0 +1,2 @@
+
+Full gene sequence: The complete order of bases in a gene. This order determines which protein a gene will produce.

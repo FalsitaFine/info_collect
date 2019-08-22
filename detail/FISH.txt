@@ -1,0 +1,2 @@
+
+FISH: Fluorescence in situ hybridization, a molecular cytogenetic technique that tags genetic material with fluorescent molecules. FISH is useful for identifying chromosomes and parts of chromosomes, deciphering chromosome rearrangements, detecting chromosome abnormalities, and detecting and mapping genes. For example, a FISH probe to chromosome 21 allows the detection of cells with trisomy 21 (an extra chromosome 21, which is the cause of <a href="https://www.medicinenet.com/down_syndrome_overview/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Down syndrome</a>).

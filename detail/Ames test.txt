@@ -1,0 +1,2 @@
+
+Ames test: A test developed in 1974 by Bruce N. Ames for identifying possible carcinogens by studying their mutagenic effect on bacteria. The Ames test is widely used test to detect possible chemical carcinogens. It is based on mutagenicity in <a href="https://www.medicinenet.com/salmonella_food_poisoning_salmonellosis/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Salmonella</a> bacteria.

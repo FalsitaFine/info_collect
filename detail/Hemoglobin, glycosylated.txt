@@ -1,0 +1,8 @@
+
+Hemoglobin, glycosylated: <a href="https://www.medicinenet.com/hemoglobin/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">Hemoglobin</a> to which <a href="https://www.medicinenet.com/glucose/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">glucose</a> is bound. Glycosylated hemoglobin  is tested to monitor the long-term control of <a href="https://www.medicinenet.com/diabetes_mellitus/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">diabetes</a> mellitus. 
+The level of glycosylated hemoglobin is increased in the red blood cells of persons with poorly controlled diabetes mellitus. Since the glucose stays attached to hemoglobin for the life of the red blood cell (normally about 120 days), the level of glycosylated hemoglobin reflects the average blood glucose level over the past 3 months. 
+The normal level for glycosylated hemoglobin is less than 7%. Diabetics rarely achieve such levels, but tight control aims to come close to it. Levels above 9% show poor control, and levels above 12% show very poor control. It is commonly recommended that glycosylated hemoglobin be measured every 3 to 6 months in diabetes.
+
+The Diabetes Control and Complications Trial (DCCT) showed that diabetics who keep their glycosylated hemoglobin levels close to 7% have a much better chance of delaying or preventing diabetes complications that affect the eyes, kidneys, and nerves than people with levels 8% or higher. A change in treatment is almost always needed if the level is over 8%. Lowering the level of glycosylated hemoglobin by any amount improves a person's chances of staying healthy.
+
+Glycosylated hemoglobin is also known as glycohemoglobin or as hemoglobin A1C (the main fraction of glycosylated hemoglobin).

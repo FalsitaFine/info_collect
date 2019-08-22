@@ -1,0 +1,2 @@
+
+huntingtin: The name of the gene responsible for Huntington disease (HD) and of the protein encoded by that gene. The molecular basis of HD is an increase in the length of a CAG triplet repeat (or 'polyglutamine') within the huntingtin gene. The gene is on chromosome 4p16.3.

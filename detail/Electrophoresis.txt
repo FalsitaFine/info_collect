@@ -1,0 +1,2 @@
+
+Electrophoresis: A method used in clinical and research laboratories for separating molecules according to their size and electrical charge. An electric current is passed through a medium that contains the mixture of molecules. Each kind of molecule travels through the medium at a different rate, depending on its electrical charge and molecular size. Separation of the molecules occurs based on these differences.

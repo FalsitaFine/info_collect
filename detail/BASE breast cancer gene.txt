@@ -1,0 +1,4 @@
+
+BASE breast cancer gene: A <a href="https://www.medicinenet.com/breast_cancer_facts_stages/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">breast cancer</a> gene first reported in 2003 that encodes a protein secreted only by <a href="https://www.medicinenet.com/breast_anatomy/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">breast </a>
+<a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt"> cancer</a> and salivary gland cells. Hence the name, BASE (Breast cancer And Salivary gland Expression). The normal breast makes very little, if any, of the BASE protein whereas
+certain kinds of breast cancers produce quite a lot of it. Determining the levels of BASE in the blood may be of use in screening for breast cancer and for following a patient's progress on breast cancer treatment.

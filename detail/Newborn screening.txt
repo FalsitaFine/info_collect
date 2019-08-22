@@ -1,0 +1,12 @@
+
+Newborn screening: Tests of newborns to screen for serious treatable diseases most of which are genetic. The <a href="https://www.medicinenet.com/babies_quiz/quiz.htm" onclick="wmdTrack('embd-lnk');" rel="quiz">newborn</a> screening tests done in the United States are decided on a state-by-state basis. 
+<ul><li>The most common newborn screening tests in the US include those for <a href="https://www.medicinenet.com/hypothyroidism/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">hypothyroidism</a> (underactivity of the thyroid gland), PKU (<a href="https://www.medicinenet.com/phenylketonuria/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">phenylketonuria</a>), galactosemia, and <a href="https://www.medicinenet.com/sickle_cell/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">sickle cell disease</a>.</li><li> Testing for hypothyroidism and PKU is required in virtually all States. </li><li>Screening for galactosemia and sickle cell disease is required in most states. </li><li>Some states in the US mandate tests for other conditions. These include: maple syrup urine disease (MSUD), <a href="https://www.medicinenet.com/homocysteine/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">homocystinuria</a>, biotinidase deficiency, congenital adrenal hyperplasia, MCAD, tyrosinemia, <a href="https://www.medicinenet.com/cystic_fibrosis/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cystic fibrosis</a>, and <a href="https://www.medicinenet.com/toxoplasmosis/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">toxoplasmosis</a>.</li><li> All these tests are usually done using the same sample of the baby's blood.</li></ul>
+<div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/detecting_hearing_loss_in_children/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/13/2018</span></i></div><a class="mediaPrmo quiz" href="https://www.medicinenet.com/early_pregnancy_symptoms_quiz/quiz.htm" onclick="wmdTrack('quizprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com/images/quiz/pregnancy-symptoms/pregnancy-symptoms-s1.jpg"/>
+<span class="skew"></span>
+<span class="icon-quiz"></span>
+<h4 class="label">QUESTION</h4>
+<span class="caption">The first sign of pregnancy is most often:</span>
+<span class="btn">See Answer</span>
+</a>

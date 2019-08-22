@@ -1,0 +1,4 @@
+
+Dynein: A family of microtubule motor proteins that derive energy from ATP (adenosine triphosphatase) activity. The dyneins also form arms on the outer tubules of <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=20383" onclick="wmdTrack('embd-lnk');" rel="dict">cilia</a> and flagella.  
+The dynein motor, a cellular complex believed to be composed of 12 distinct protein parts, performs fundamental transportation tasks critical to the cell. Defects in its structure can prove fatal for the cell. This machine converts chemical energy stored in an ATP molecule into mechanical energy that moves material though the cell along slender filaments called microtubules. One of the dynein motor's most important functions occurs during cell division, when it helps move chromosomes into proper position.
+The dyneins are not related in sequence to the other known class of microtubule motor proteins, the kinesin.

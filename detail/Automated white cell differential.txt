@@ -1,0 +1,2 @@
+
+Automated white cell differential: A machine-generated percentage of the different types of white blood cells, usually split into granulocytes, lymphocytes, monocytes, eosinophils, and basophils.

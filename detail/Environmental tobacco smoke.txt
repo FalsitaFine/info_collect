@@ -1,0 +1,11 @@
+
+Environmental tobacco smoke: Abbreviated ETS. <a href="https://www.medicinenet.com/secondhand_smoke/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Secondhand smoke</a>.                                                         
+                            <div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/mental_health_psychology/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/11/2018</span></i></div><a class="mediaPrmo ss" href="https://www.medicinenet.com/quit_smoking_tips_pictures_slideshow/article.htm" onclick="wmdTrack('ssprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com//images/slideshow/13_best-_smoking_tips_s1_cigarettes_ashtray.jpg"/>
+<span class="skew"></span>
+<span class="icon-slideshow"></span>
+<h4 class="label">SLIDESHOW</h4>
+<span class="caption">How to Quit Smoking: 13 Tips to End Addiction</span>
+<span class="btn">See Slideshow</span>
+</a>

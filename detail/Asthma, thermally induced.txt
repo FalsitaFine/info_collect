@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2373" onclick="wmdTrack('embd-lnk');" rel="dict">Asthma</a>, <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=6281" onclick="wmdTrack('embd-lnk');" rel="dict">thermally induced asthma</a>:  See : Exercised-induced bronchospasm

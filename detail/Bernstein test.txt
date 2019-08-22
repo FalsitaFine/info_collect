@@ -1,0 +1,2 @@
+
+Bernstein test: A test to find out if <a href="https://www.medicinenet.com/heartburn_reflux/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">heartburn</a> is caused by acid in the esophagus, and so to diagnose GERD (<a href="https://www.medicinenet.com/gastroesophageal_reflux_disease_gerd/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">gastroesophageal reflux disease</a>). The test involves dripping a mild acid, similar to stomach acid, through a tube placed in the esophagus. Also known as esophageal acid infusion test.

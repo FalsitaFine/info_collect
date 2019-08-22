@@ -1,0 +1,2 @@
+
+Nucleotide: A subunit of DNA or RNA that consists of a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4568" onclick="wmdTrack('embd-lnk');" rel="dict">nitrogenous base</a> (A, G, T, or C in DNA; A, G, U, or C in RNA), a phosphate molecule, and a sugar molecule (deoxyribose in DNA, and ribose in RNA). Thousands of nucleotides are linked to form a DNA or an RNA molecule.

@@ -1,0 +1,2 @@
+
+Ecogenetics: The interaction of genetics with the environment. For example, persons with the <a href="https://www.medicinenet.com/genetic_disease/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">genetic disease</a> <a href="https://www.medicinenet.com/phenylketonuria/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">phenylketonuria</a> (PKU) lack an enzyme that is needed to process the amino acid phenylalanine, and they require a special environment: a diet low in phenylalanine.

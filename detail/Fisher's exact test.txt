@@ -1,0 +1,7 @@
+
+Fisher's exact test: A statistical test of independence much used
+in medical research. It tests the independence of rows and columns in a 2 X 2 contingency
+table (with 2 horizontal rows crossing 2 vertical columns creating 4 places for data)
+based on the exact sampling distribution of the observed frequencies. Hence it is an
+"exact" test. Devised by the British geneticist and biostatistician R. A. Fisher
+(1890-1962). 

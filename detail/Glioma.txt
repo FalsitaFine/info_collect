@@ -1,0 +1,4 @@
+
+Glioma: A type of brain <a href="https://www.medicinenet.com/tumor_grade/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">tumor</a> that involves the glial cells.
+Glioma: A <a href="https://www.medicinenet.com/brain_tumor/article.htm">brain tumor</a> that begin in a glial, or supportive, cell, in the brain or spinal cord. Malignant gliomas are the most common primary tumors of the central nervous system (the brain and spinal cord). They are often resistant to treatment and carry a poor prognosis (have a dismal outlook). 
+"Glia" is the Greek word for "glue".

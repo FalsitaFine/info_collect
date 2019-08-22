@@ -1,0 +1,2 @@
+
+APM1: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=32080" onclick="wmdTrack('embd-lnk');" rel="dict">Adipose most abundant gene transcript 1</a>. (AdiPose Most abundant gene transcript 1 = APM1.) The APM1 gene encodes the hormone <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=17982" onclick="wmdTrack('embd-lnk');" rel="dict">adiponectin</a>.

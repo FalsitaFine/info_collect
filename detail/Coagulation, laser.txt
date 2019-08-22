@@ -1,0 +1,3 @@
+
+Coagulation, laser: The coagulation (clotting) of tissue using a laser. A coagulation laser produces light in the visible green wavelength that is selectively absorbed by <a href="https://www.medicinenet.com/hemoglobin/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">hemoglobin</a>, the pigment in red blood cells, in order to seal off bleeding blood vessels.
+There is also, for example, electrocoagulation and photocoagulation.

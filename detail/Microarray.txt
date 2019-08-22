@@ -1,0 +1,2 @@
+
+Microarray: A tool used to sift through and analyze the information contained within a genome. A microarray consists of different <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4594" onclick="wmdTrack('embd-lnk');" rel="dict">nucleic acid</a> probes that are chemically attached to a substrate, which can be a microchip, a glass slide or a microsphere-sized bead.

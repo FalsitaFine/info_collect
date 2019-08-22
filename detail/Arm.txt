@@ -1,0 +1,4 @@
+
+Arm: 1. In popular usage, the appendage that extends from the shoulder to the hand. However, the medical definition refers to the upper extremity extending from the shoulder only to the elbow, excluding the forearm, which extends from the elbow to the wrist. The arm contains one bone: the humerus.  
+2. In a randomized clinical trial, any of the treatment groups. Most randomized trials have two "arms," but some have three "arms," or even more.
+Arm: In popular usage, the appendage that extends from the shoulder to the hand. However, the medical definition refers to the upper extremity extending from the shoulder only to the portion of the elbow, excluding the forearm, which extends from the elbow to the wrist. The arm contains one bone: the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3814" onclick="wmdTrack('embd-lnk');" rel="dict">humerus</a>.

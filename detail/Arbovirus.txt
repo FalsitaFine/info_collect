@@ -1,0 +1,5 @@
+
+Arbovirus:  A class of viruses transmitted to humans by arthropods such as mosquitoes and ticks. The first two letters of the words arthropod' and borne, make up the 'arbo' that now designates this group  of viruses as arthropod-borne.
+The name arbovirus was coined in part by Dr. William C. Reeves (1916-2004) to connote the class of viruses carried by insects and responsible for diseases like malaria, dengue fever, encephalitis and West Nile. 
+The arboviruses were originally called 'arborviruses' but the spelling was changed, dropping the second 'r' because of the potential of mis-identification with trees.
+For more information about the arboviruses, see <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=16225">Arboviral encephalitis</a>.

@@ -1,0 +1,2 @@
+
+ALMS1: A gene on chromosome 2p13. <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=20241" onclick="wmdTrack('embd-lnk');" rel="dict">Alstrom syndrome</a> is caused by mutation of ALMS1.

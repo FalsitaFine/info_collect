@@ -1,0 +1,5 @@
+
+Daily Value: DV, a term on food labels based on the RDA (Recommended Dietary Allowance) designed to help consumers use food label information to plan a healthy diet. 
+The Daily Value serves as a basis for declaring on the label the percent of the DV for each nutrient that a serving of the food provides. For example, the Daily Value for fat, based on a 2,000-calorie diet, is 65 grams (g). A food that has 13 g of fat per serving would state on the label that the "percent Daily Value" for fat is 20 percent. 
+The DV also provides a basis for thresholds that define descriptive words for nutrient content, called descriptors, such as "high <a href="https://www.medicinenet.com/fiber/article.htm" onclick="wmdTrack('embd-lnk');" rel="sub">fiber</a>" and "low fat." For example, the descriptor "high fiber" can be used if a serving of food provides 20 percent or more of the Daily Value for fiber--
+that is, 5 g or more.

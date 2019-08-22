@@ -1,0 +1,14 @@
+
+NIOSH: The National Institute for Occupational Safety and Health, a US Federal agency responsible for conducting research and making recommendations for the <a href="https://www.medicinenet.com/prevention/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">prevention</a> of work-related disease and injury. 
+Despite its name (which would suggest that it is part of the National Institutes of Health (NIH), NIOSH is part of the Centers for Disease Control and Prevention (the CDC).  
+NIOSH is responsible for conducting research on the full scope of occupational disease and injury ranging from lung disease in miners to carpal tunnel syndrome in computer users. In addition to conducting research, NIOSH
+<ul>
+<li>investigates potentially hazardous working conditions when requested by employers or employees;
+<li>makes recommendations and disseminates information on preventing workplace disease, injury, and disability; and
+<li>provides training to occupational safety and health professionals.</li>
+</li></li></ul> NIOSH is a diverse organization. Its employees represent a wide range of disciplines including industrial hygiene, nursing, epidemiology, engineering, medicine, and statistics. Headquartered in Washington DC, NIOSH has offices in Atlanta, Georgia and research divisions in Cincinnati, Ohio; Morgantown, West Virginia; Bruceton, Pennsylvania; and Spokane, Washington.
+
+Each day, an average of 9,000 U.S. workers sustain disabling injuries on the job, 17 workers die from an injury sustained at work, and 137 workers die from work-related diseases. The economic burden of this continuing toll is high. Data from a NIOSH-funded study reveal $171 billion annually in direct and indirect costs of occupational injuries and illnesses ($145 billion for injuries and $26 billion for diseases). (These costs compare to $33 billion for AIDS, $67.3 billion for Alzheimer disease, $164.3 billion for circulatory diseases, and $170.7 billion for <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cancer</a>.) 
+
+The enormous toll from work-related injuries and diseases can, it is felt, be reduced. Progress has been made to date, largely based on the science and knowledge generated from occupational safety and health research. Most of this research is conducted or funded by NIOSH. 
+For more about NIOSH, go to the NIOSH web site at http://www.cdc.gov/niosh/homepage.html

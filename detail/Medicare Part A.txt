@@ -1,0 +1,4 @@
+
+Medicare Part A: The Medicare program that covers inpatient hospital stays.
+Medicare is the United States government's health insurance program for the aged and some disabled persons. Medicare is currently available to people 65 and older and to people with certain disabilities.
+<a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4319" onclick="wmdTrack('embd-lnk');" rel="dict">Medicare Part B</a> covers physician and outpatient services.

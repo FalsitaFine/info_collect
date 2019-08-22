@@ -1,0 +1,2 @@
+
+Ball-and-socket joint: A joint in which the round end of a bone fits into the cavity of another bone. The hip joint is a ball-and-socket joint.

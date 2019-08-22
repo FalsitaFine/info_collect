@@ -1,0 +1,6 @@
+
+Inbreeding, coefficient of:  A measure of how close 
+two people are genetically to each another. The coefficient of 
+inbreeding, symbolized by the letter F, is the probability that a 
+person with two identical genes received both genes from one 
+ancestor.

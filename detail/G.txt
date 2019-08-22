@@ -1,0 +1,5 @@
+
+G: G stands for guanine, one member of the 
+base pair G-C (guanine-cytosine) in the DNA. The other base pair in 
+the DNA is A-T (adenine-thymine).
+Each base pair forms a "rung of the DNA ladder." A DNA nucleotide is made of a molecule of sugar, a molecule of phosphoric acid, and a molecule called a base. The bases are the "letters" that spell out the genetic code. In DNA, the code letters are A, T, G, and C, which stand for the chemicals adenine, thymine, guanine, and cytosine, respectively. In base pairing, adenine always pairs with thymine, and guanine always pairs with cytosine. 

@@ -1,0 +1,8 @@
+
+Disease, Kawasaki: A syndrome of unknown origin,
+mainly affecting young children, causing <a href="https://www.medicinenet.com/aches_pain_fever/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">fever</a>, reddening of the eyes (conjunctivitis),
+lips and mucous membranes of the mouth, ulcerative <a href="https://www.medicinenet.com/gum_disease/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">gum disease</a> (gingivitis), swollen
+glands in the neck (cervical lymphadenopathy), and a <a href="https://www.medicinenet.com/rash/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">rash</a> that is raised and bright red
+(maculoerythematous) in a glove-and-sock fashion over the skin of the hands and feet which
+becomes hard, swollen (edematous), and peels off. Also called mucocutaneous lymph node
+syndrome.

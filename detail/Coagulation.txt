@@ -1,0 +1,5 @@
+
+Coagulation: In medicine, the clotting of blood.
+The process by which the <a href="https://www.medicinenet.com/blood_clots/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">blood clots</a> to form solid masses, or clots. 
+More than 30 types of cells and substances in blood affect clotting. The process is initiated by blood platelets. Platelets produce a substance that combines with calcium ions in the blood to form thromboplastin, which in turn converts the protein prothrombin into thrombin in a complex series of reactions. Thrombin, a proteolytic enzyme, converts fibrinogen, a protein substance, into fibrin, an insoluble protein that forms an intricate network of minute threadlike structures called fibrils and causes the blood plasma to gel. The blood cells and plasma are enmeshed in the network of fibrils to form the clot. 
+Tissue can also be subjected to coagulation by various means, as by electrocoagulation, laser coagulation, or photocoagulation.

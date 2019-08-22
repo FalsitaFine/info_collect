@@ -1,0 +1,2 @@
+
+False positive: A result that indicates that a given condition is present when it is not. An example of a false positive would be if a particular test designed to detect <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cancer</a> returns a positive result but the person does not have 'cancer.

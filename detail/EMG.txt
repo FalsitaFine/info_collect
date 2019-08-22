@@ -1,0 +1,2 @@
+
+EMG: <a href="https://www.medicinenet.com/electromyogram/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">Electromyogram</a>.

@@ -1,0 +1,2 @@
+
+Gene, Med1 DNA repair: A gene that codes for one of the key enzymes involved in repairing DNA. The DNA in genes is constantly mutating and being repaired. This repair process is controlled by special genes. A mutation in a DNA repair gene such as Med1 can cripple the repair process and cause a cascade of unrepaired mutations in the genome that lead to <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cancer</a>. 

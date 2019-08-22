@@ -1,0 +1,3 @@
+
+Contig: Contiguous sequence of DNA created by assembling overlapping sequenced fragments of a chromosome. A group of clones representing overlapping regions of the genome.
+A contig is a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2726" onclick="wmdTrack('embd-lnk');" rel="dict">chromosome map</a> showing the locations of those regions of a chromosome where contiguous DNA segments overlap. Contig maps are important because they provide the ability to study a complete, and often large, segment of the genome by examining a series of overlapping clones which then provide an unbroken succession of information about that region.

@@ -1,0 +1,3 @@
+
+Genotoxin: A poisonous substance which damages DNA. A genotoxin can cause mutations in DNA (and so be a mutagen), it can trigger <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cancer</a> (and so be a carcinogen), or it can cause a birth defect (and so be a teratogen).
+From geno- (genetic) + toxin (poison) = a genetic poison.

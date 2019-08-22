@@ -1,0 +1,2 @@
+
+Library, cDNA: A collection of DNA sequences generated from mRNA (<a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4357" onclick="wmdTrack('embd-lnk');" rel="dict">messenger RNA</a>) sequences. This type of DNA library contains only DNA that codes for proteins and does not include any non-<a href="https://www.medicinenet.com/script/main/art.asp?articlekey=16838" onclick="wmdTrack('embd-lnk');" rel="dict">coding DNA</a>.

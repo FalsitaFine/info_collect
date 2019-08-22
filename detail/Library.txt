@@ -1,0 +1,9 @@
+
+Library: In genetics, a library is an unordered
+collection of clones (i.e., cloned DNA from a particular organism), 
+whose relationship to
+each other can be established by physical mapping. For example, you 
+can have an E. coli
+library or a human DNA library. Among the types of libraries, there 
+are genomic libraries
+and arrayed libraries.

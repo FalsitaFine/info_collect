@@ -1,0 +1,3 @@
+
+Cell, plasma: A type of white blood cell that produces and secretes antibodies. A plasma cell is a fully differentiated lymphocyte in the B-cell (not the T-cell) lineage.
+As with most cell types, plasma cells can mutate to give rise to <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cancer</a>. Plasma cell malignancies include <a href="https://www.medicinenet.com/multiple_myeloma/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">multiple myeloma</a>, Waldenstrom macroglobulinemia, and plasma cell <a href="https://www.medicinenet.com/leukemia/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">leukemia</a>.

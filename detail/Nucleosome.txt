@@ -1,0 +1,2 @@
+
+Nucleosome: A structure that is responsible in part for the compactness of a chromosome. Each nucleosome consists of a sequence of DNA wrapped around a core of <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3767" onclick="wmdTrack('embd-lnk');" rel="dict">histone</a>, which is a type of protein.

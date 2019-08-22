@@ -1,0 +1,2 @@
+
+Date, expiration: The date for a drug estimated for its shelf life with proper storage in sealed containers away from harmful and variable factors like heat and humidity. The expiration date of a medicine is based on data, called accelerated stability data, from testing by the manufacturer, that show the product will be good for a particular period of time.

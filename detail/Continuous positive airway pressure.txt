@@ -1,0 +1,11 @@
+
+Continuous positive airway pressure: See: CPAP.<?p>
+<!--CONTINUEREADING-->
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">9/7/2018</span></i></div><a class="mediaPrmo quiz" href="https://www.medicinenet.com/dental_oral_health_quiz/quiz.htm" onclick="wmdTrack('quizprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com/images/quiz/dental-health/s1.jpg"/>
+<span class="skew"></span>
+<span class="icon-quiz"></span>
+<h4 class="label">QUESTION</h4>
+<span class="caption">What causes tooth decay?</span>
+<span class="btn">See Answer</span>
+</a>

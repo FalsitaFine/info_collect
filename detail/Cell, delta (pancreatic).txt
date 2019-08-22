@@ -1,0 +1,6 @@
+
+Cell, delta (pancreatic): A type of cell in the pancreas (the organ of the
+digestive system located behind the stomach). Within the pancreas, the delta
+cells are located in areas called the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4054" onclick="wmdTrack('embd-lnk');" rel="dict">islets of Langerhans</a>. The delta cells
+make somatostatin, a hormone that inhibits the release of numerous hormones
+in the body.

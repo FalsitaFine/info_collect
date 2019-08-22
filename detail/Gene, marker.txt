@@ -1,0 +1,3 @@
+
+Gene, marker:
+A detectable genetic trait or segment of DNA that can be identified and tracked. A marker gene can serve as a flag for another gene, sometimes called the target gene. A marker gene must be on the same chromosome as the target gene and near enough to it so that the two genes (the marker gene and the target gene) are  genetically linked and are usually inherited together.

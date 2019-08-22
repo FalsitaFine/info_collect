@@ -1,0 +1,2 @@
+
+Chromosome inversion, paracentric: A type of chromosome rearrangement in which a chromosomal segment that does not include the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2668" onclick="wmdTrack('embd-lnk');" rel="dict">centromere</a> (and is therefore paracentric) is snipped out of a chromosome, inverted, and inserted back into the chromosome. The feature that makes it paracentric is that both breaks are on the same side of the centromere, so that the centromere is not involved in the rearrangement.

@@ -1,0 +1,5 @@
+
+DNA, satellite: DNA that contains many tandem (not
+inverted) repeats of a short basic repeating unit. <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=5411" onclick="wmdTrack('embd-lnk');" rel="dict">Satellite DNA</a> is located at very
+specific spots in the genome (on chromosomes 1, 9, 16 and the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=6049" onclick="wmdTrack('embd-lnk');" rel="dict">Y chromosome</a>, the tiny short
+arms of chromosomes 13-15 and 21 and 22, and near the centromeres of chromosomes). 

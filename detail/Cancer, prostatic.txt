@@ -1,0 +1,10 @@
+
+Cancer, prostatic: <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Cancer</a> of the gland (prostate) that
+produces some of the components of semen fluid. The second leading cause of death of males
+in the U.S. <a href="https://www.medicinenet.com/prostate_cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Prostate cancer</a> is often first detected as a hard nodule during a routine
+rectal examination. The PSA blood test is a screening test for prostate cancer. Diagnosis
+of prostate cancer is established when cancer cells are identified in prostate tissue
+obtained by a biopsy. In some patients, prostate cancer is life threatening. In many
+others, prostate cancer can exist for years without causing any health problems. Treatment
+options for prostate cancer include observation, <a href="https://www.medicinenet.com/radiation_therapy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">radiation therapy</a>, surgery, hormonal
+therapy, and <a href="https://www.medicinenet.com/chemotherapy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">chemotherapy</a>.

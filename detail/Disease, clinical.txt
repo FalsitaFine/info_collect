@@ -1,0 +1,5 @@
+
+Disease, clinical: A disease with clinical signs and symptoms that can
+be recognized. As distinct from a subclinical illness without recognizable clinical
+manifestations. <a href="https://www.medicinenet.com/diabetes_mellitus/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Diabetes</a>, for example, can be subclinical in a person before emerging as a
+clinical disease.

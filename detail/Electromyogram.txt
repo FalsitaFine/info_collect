@@ -1,0 +1,2 @@
+
+Electromyogram: A test that records the electrical activity of muscles. Normal muscles produce a typical pattern of electrical current that is usually proportional to the level of muscle activity. Diseases of muscle and/or nerves can produce abnormal <a href="https://www.medicinenet.com/electromyogram/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">electromyogram</a> patterns. Abbreviated EMG. Also known as a myogram.

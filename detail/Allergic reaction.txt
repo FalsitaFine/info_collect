@@ -1,0 +1,31 @@
+
+Allergic reaction:  The hypersensitive response of 
+the immune system of an allergic individual to a substance.  When 
+an allergen enters the body, it causes the body's immune system to 
+develop an allergic reaction in a person with an <a href="https://www.medicinenet.com/allergy/article.htm">allergy</a> to it. This 
+reaction can occur when the immune system attacks a normally harmless 
+substance (the allergen). The immune system calls upon a protective 
+antibody called immunoglobulin E or IgE to fight these invading 
+substances.  Even though everyone has some IgE, an allergic person 
+has an unusually large army of these IgE defenders -in fact, too many 
+for their own good. This army of IgE antibodies attacks and engages 
+the invading army of allergic substances of allergens. As is often 
+the case in war, innocent bystanders are affected by this battle. 
+These innocent bystanders are special cells called mast cells. When a 
+mast cell is injured or irritated, it releases a variety of strong 
+chemicals, including histamine, into the tissues and blood that 
+promote allergic reactions. These chemicals are very irritating and 
+cause itching, swelling, and fluid leaking from nearby cells. These 
+allergic chemicals can cause muscle spasm and can lead to lung airway 
+and throat tightening as is found in <a href="https://www.medicinenet.com/asthma_overview/article.htm">asthma</a> and loss of voice. They 
+are also what leads to the familiar hay fever or allergic rhinitis and 
+common <a href="https://www.medicinenet.com/pink_eye/article.htm">pink eye</a>.                                                         
+                            <div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/allergic_cascade/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/4/2018</span></i></div><a class="mediaPrmo ss" href="https://www.medicinenet.com/10_common_allergy_triggers_slideshow/article.htm" onclick="wmdTrack('ssprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com//images/slideshow/allergy-triggers-s1-discovery.jpg"/>
+<span class="skew"></span>
+<span class="icon-slideshow"></span>
+<h4 class="label">SLIDESHOW</h4>
+<span class="caption">Could I Be Allergic? Discover Your Allergy Triggers</span>
+<span class="btn">See Slideshow</span>
+</a>

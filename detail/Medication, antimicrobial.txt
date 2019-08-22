@@ -1,0 +1,2 @@
+
+Medication, antimicrobial: A drug used to treat a microbial infection. <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=9621" onclick="wmdTrack('embd-lnk');" rel="dict">Antimicrobial</a> is a general term that refers to a group of drugs that includes antibiotics, antifungals, antiprotozoals, and antivirals.

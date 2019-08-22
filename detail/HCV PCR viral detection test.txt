@@ -1,0 +1,3 @@
+
+PCR (polymerase chain 
+reaction): <a href="https://www.medicinenet.com/pcr_polymerase_chain_reaction/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">PCR</a> (<a href="https://www.medicinenet.com/pcr_polymerase_chain_reaction/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">polymerase chain reaction</a>): PCR (polymerase chain reaction) is a technique in molecular genetics that permits the analysis of any short sequence of DNA (or RNA) even in samples containing only minute quantities of DNA or RNA. PCR is used to reproduce (amplify) selected sections of DNA or RNA for analysis.

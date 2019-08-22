@@ -1,0 +1,23 @@
+
+Altitude sickness: Altitude sickness (or altitude illness) is a disorder caused by being at high altitude. It more commonly occurs above 8,000 feet (2,440 meters).
+The cause of altitude illness is a matter of oxygen physiology. At sea level the concentration of oxygen is about 21% and the barometric pressure averages 760 mmHg. As altitude increases, the concentration remains the same but the number of oxygen molecules per breath is reduced. At 12,000 feet (3,658 meters) the barometric pressure is only 483 mmHg, so there are roughly 40% fewer oxygen molecules per breath. In order to oxygenate the body effectively, your breathing rate (even while at rest) has to increase. This extra ventilation increases the oxygen content in the blood, but not to sea level concentrations. Since the amount of oxygen required for activity is the same, the body must adjust to having less oxygen. In addition, high altitude and lower air pressure cause fluid to leak from the capillaries which can cause fluid build-up in both the lungs and the brain. Continuing to higher altitudes without proper acclimatization can lead to potentially serious, even life-threatening illnesses.
+ 
+The prevention of altitude illnesses falls into two categories, proper acclimatization and preventive medications. A few basic guidelines for proper acclimatization are: 
+<ul>
+<li>If possible, don't fly or drive to high altitude. Start below 10,000 feet (3,048 meters) and walk up.</li>
+<li>If you do fly or drive, do not over-exert yourself or move higher for the first 24 hours.</li>
+<li>If you go above 10,000 feet (3,048 meters), only increase your altitude by 1,000 feet (305 meters) per day and for every 3,000 feet (915 meters) of elevation gained, take a rest day.</li>
+<li>"Climb High and <a href="https://www.medicinenet.com/sleep/article.htm">sleep</a> low." This is the maxim used by climbers. You can climb more than 1,000 feet (305 meters) in a day as long as you come back down and sleep at a lower altitude.</li>
+<li>If you begin to show symptoms of moderate altitude illness, don't go higher until symptoms decrease ("Don't go up until symptoms go down").</li>
+<li>If symptoms increase, go down, down, down!</li>
+<li>Keep in mind that different people will acclimatize at different rates. Make sure all of your party is properly acclimatized before going higher.</li>
+<li>Stay properly hydrated. Acclimatization is often accompanied by fluid loss, so you need to drink lots of fluids to remain properly hydrated (at least 3-4 quarts per day). Urine output should be copious and clear.</li>
+<li>Take it easy; don't over-exert yourself when you first get up to altitude. Light activity during the day is better than sleeping because respiration decreases during sleep, exacerbating the symptoms.</li>
+<li>Avoid tobacco and alcohol and other depressant drugs including, barbiturates, tranquilizers, and sleeping pills. These depressants further decrease the respiratory drive during sleep resulting in a worsening of the symptoms.</li>
+<li>Eat a high carbohydrate diet (more than 70% of your calories from carbohydrates) while at altitude.</li></ul> 
+The acclimatization process is inhibited by <a href="https://www.medicinenet.com/dehydration/article.htm">dehydration</a>, over-exertion, and alcohol and other depressant drugs. 
+Preventive medications for altitudes illness are two drugs: one called DIAMOX (acetazolamide) and the other called dexamethasone (a steroid). 
+DIAMOX (acetazolamide) allows a person to breathe faster and so metabolize more oxygen, thereby minimizing the symptoms caused by poor oxygenation. This is especially helpful at night when respiratory drive is decreased. Since it takes a while for DIAMOX to have an effect, it is advisable to start taking it 24 hours before you go to altitude and continue for at least 5 days at higher altitude. 
+Dexamethasone (a steroid) is likewise a prescription drug. It decreases brain and other swelling reversing the effects of acute mountain sickness (AMS). Like DIAMOX, it should be used with caution and only on the advice of a physician because of possible serious side effects. It may be combined with DIAMOX. No other medications have been proven valuable for preventing AMS. (Based in part on the Princeton University Outdoor Action "Guide to High Altitude:  Acclimatization and Illnesses" by Rick Curtis).
+  
+This entry does not deal with acute mountain sickness (AMS) or, in any detail, with acclimatization. For information on these topics, please see the respective entries to Acute mountain sickness (AMS) and to Acclimatization.

@@ -1,0 +1,2 @@
+
+Chromosome, acrocentric: A chromosome that has its centromere located near one end of the chromosome. Humans have five pairs of acrocentric chromosomes. <a href="https://www.medicinenet.com/down_syndrome_overview/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Down syndrome</a> is due to an extra acrocentric chromosome (chromosome 21).

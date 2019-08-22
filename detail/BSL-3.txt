@@ -1,0 +1,2 @@
+
+BSL-3: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=14880" onclick="wmdTrack('embd-lnk');" rel="dict">Biosafety level</a> 3. A level of biosafety considered appropriate for agents that may be transmitted by the respiratory route which can cause serious infection.

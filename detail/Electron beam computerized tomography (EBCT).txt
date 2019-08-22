@@ -1,0 +1,3 @@
+
+Electron beam computerized tomography (EBCT): A rapid  imaging test for detecting calcium deposits in the arteries of the heart. It is a form of CT scanning that uses an electron gun instead of regular <a href="https://www.medicinenet.com/x-rays/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">x-rays</a>.
+

@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/hemodialysis/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">Hemodialysis</a>: A medical procedure to remove fluid and waste products from the blood and to correct electrolyte imbalances. This is accomplished using a machine and a dialyzer, also referred to as an "artificial kidney."

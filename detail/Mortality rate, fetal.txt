@@ -1,0 +1,5 @@
+
+Mortality rate, fetal: The ratio of fetal deaths to the
+sum of the births (the live births + the fetal deaths) in that year. In the United States,
+the fetal mortality rate plummeted from 19.2 per 1,000 births in 1950 to 9.2 per 1,000
+births in 1980. 

@@ -1,0 +1,9 @@
+
+<a href="https://www.medicinenet.com/script/main/art.asp?articlekey=15735" onclick="wmdTrack('embd-lnk');" rel="DICT">Methemoglobinemia</a>: The presence in the blood of <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4366" onclick="wmdTrack('embd-lnk');" rel="DICT">methemoglobin</a>, a form of 
+<a href="https://www.medicinenet.com/hemoglobin/article.htm" onclick="wmdTrack('embd-lnk');" rel="PROC"> hemoglobin</a> that is useless for carrying oxygen and delivering it to tissues 
+throughout the human body. A small amount of methemoglobin is normally present 
+in blood but the conversion of a larger fraction of hemoglobin into 
+methemoglobin, which does not function well as an oxygen carrier, results in clinical symptoms. Since hemoglobin is the key carrier of oxygen in the blood, 
+its replacement by methemoglobin can cause a slate gray-blueness of the skin 
+(cyanosis), and potentially cause more serious symptoms due to insufficient 
+oxygen. 

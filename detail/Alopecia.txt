@@ -1,0 +1,12 @@
+
+<a href="https://www.medicinenet.com/hair_loss/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Baldness</a>. There are many types of <a href="https://www.medicinenet.com/hair_loss_pictures_slideshow/article.htm" onclick="wmdTrack('embd-lnk');" rel="slide">alopecia</a>, each with a different cause. Alopecia may be localized to the front and top of the head as in common <a href="https://www.medicinenet.com/image-collection/male_pattern_baldness_picture/picture.htm" onclick="wmdTrack('embd-lnk');" rel="img">male pattern baldness</a>. It may be patchy as in a condition called <a href="https://www.medicinenet.com/alopecia_areata/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">alopecia areata</a>. A variant of alopecia involves the entire head and is called alopecia capitis totalis. The word "alopecia" comes from the Greek "alopex" for "fox."                                                         
+                            <div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/hair_loss/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/4/2018</span></i></div><a class="mediaPrmo ss" href="https://www.medicinenet.com/hair_and_scalp_pictures_slideshow/article.htm" onclick="wmdTrack('ssprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com//images/slideshow/hair_scalp_s1_untanggling_hair.jpg"/>
+<span class="skew"></span>
+<span class="icon-slideshow"></span>
+<h4 class="label">SLIDESHOW</h4>
+<span class="caption">Your Hair and Scalp Can Say a Lot About Your Health</span>
+<span class="btn">See Slideshow</span>
+</a>
+</div>

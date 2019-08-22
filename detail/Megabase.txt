@@ -1,0 +1,2 @@
+
+Megabase: Unit of length for DNA fragments that is equal to 1 million nucleotides. A megabase (Mb) is roughly equal to 1 <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2665" onclick="wmdTrack('embd-lnk');" rel="dict">centiMorgan</a> (cM).

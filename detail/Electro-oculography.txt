@@ -1,0 +1,2 @@
+
+Electro-oculography: EOG. A type of <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=32148" onclick="wmdTrack('embd-lnk');" rel="dict">electrophysiologic retinal testing</a> done to assess the function of the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=10644" onclick="wmdTrack('embd-lnk');" rel="dict">retinal pigment epithelium</a> by measuring change in the electrical potential between the front and back of the eye in response to dark and light.

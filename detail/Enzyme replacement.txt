@@ -1,0 +1,2 @@
+
+Enzyme replacement: A strategy designed to replace missing enzyme activity in a patient. This strategy currently involves the administration of a purified protein (the enzyme) by intravenous infusion.

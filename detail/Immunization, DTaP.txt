@@ -1,0 +1,7 @@
+
+Immunization, DTaP: Like DPT, DTaP protects from
+<a href="https://www.medicinenet.com/diphtheria_facts/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt"> diphtheria</a>, pertussis (<a href="https://www.medicinenet.com/pertussis/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">whooping cough</a>) and <a href="https://www.medicinenet.com/tetanus/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">tetanus</a>. DTaP is the same as DTP, except that
+it contains only acellular pertussis vaccine which is thought to cause fewer of the minor
+reactions associated with immunization and is also probably less likely to cause the more
+severe reactions occasionally seen following pertussis vaccination. DTaP is currently
+recommended only for the shots given at 18 months and 4-6 years of age.

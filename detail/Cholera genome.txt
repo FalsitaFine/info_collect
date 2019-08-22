@@ -1,0 +1,3 @@
+
+Cholera genome: The genome of the bacterium called Vibrio cholerae that causes <a href="https://www.medicinenet.com/cholera/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cholera</a>. This genome contains over 4 million bases in its DNA including the sequences for nearly 4,000 genes.
+The V. cholerae genome is remarkable in that it is arranged in two circular chromosomes. The larger of the two chromosomes has the usual housekeeping genes, similar to those, for example, of <a href="https://www.medicinenet.com/e_coli__0157h7/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">E. coli,</a> the common colon bacillus. The smaller chromosome contains many of the genetic elements that make V. cholerae pathogenic (capable of causing disease).

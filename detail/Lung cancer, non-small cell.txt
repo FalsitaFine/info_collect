@@ -1,0 +1,3 @@
+
+Lung cancer, non-small cell: <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Cancer</a> of the lung which is not of the small cell carcinoma (oat cell carcinoma) type. The term "non-small cell <a href="https://www.medicinenet.com/lung_cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">lung cancer</a>" is generally applied to the various types of bronchogenic carcinomas (those arising from the lining of the bronchi) which include adenocarcinoma, squamous cell carcinoma, and large cell undifferentiated carcinoma. 
+The distinction between small cell and non-small cell cancer is important for proper treatment. Surgery is the treatment of choice for the early stage of non-small-cell lung cancer.

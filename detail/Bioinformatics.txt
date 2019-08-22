@@ -1,0 +1,4 @@
+
+Bioinformatics: The sum of the computational approaches to analyze, manage, and store biological data. Bioinformatics involves the analysis of biological information using computers and statistical techniques, the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=13754" onclick="wmdTrack('embd-lnk');" rel="dict">science</a> of developing and utilizing computer databases and algorithms to accelerate and enhance biological research. 
+Bioinformatics is used in analyzing genomes, proteomes (protein sequences), three-dimensional modeling of biomolecules and biologic systems, etc. 
+Training in informatics requires backgrounds in <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=25720" onclick="wmdTrack('embd-lnk');" rel="dict">molecular biology</a> and computer science, including database design and analytical approaches.  

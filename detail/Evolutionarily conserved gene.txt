@@ -1,0 +1,2 @@
+
+Evolutionarily conserved gene: A gene that has remained essentially unchanged throughout evolution. Conservation of a gene indicates that it is unique and essential: There is not an extra copy of that gene with which evolution can tinker, and changes in the gene are likely to be lethal.

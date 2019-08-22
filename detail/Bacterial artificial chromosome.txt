@@ -1,0 +1,4 @@
+
+Bacterial artificial chromosome: A laboratory creation involving an artificially constructed chromosome in which medium-sized
+segments of DNA (100,000 to 300,000 bases in length) that come from another species are cloned into bacteria. Once the foreign DNA has been cloned into the bacteria's chromosome, many copies of it can be made (amplified) and sequenced.
+Bacterial artificial chromosome is abbreviated BAC.

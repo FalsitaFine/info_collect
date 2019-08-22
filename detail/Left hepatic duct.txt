@@ -1,0 +1,9 @@
+
+Left hepatic duct: The duct that drains bile from the left half of the liver and joins the right hepatic duct to form the common hepatic duct.
+<!--START IMAGETAG-->
+<div id="lrgArtImg">
+<div itemscope="" itemtype="https://schema.org/CreativeWork">
+<img alt="Illustration of Gallstones forming in the Gallbladder" itemprop="image" src="https://images.medicinenet.com/images/gallstones.jpg">
+</img></div>
+</div>
+<!--END IMAGETAG-->

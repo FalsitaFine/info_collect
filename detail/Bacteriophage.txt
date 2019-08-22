@@ -1,0 +1,2 @@
+
+Bacteriophage: A virus that lives within a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2416" onclick="wmdTrack('embd-lnk');" rel="dict">bacterium</a>, replicating itself and eventually destroying the bacterial cell. Bacteriophages have been very helpful in the study of bacterial and molecular <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=15390" onclick="wmdTrack('embd-lnk');" rel="dict">genetics</a>. They are sometimes simply called phages.

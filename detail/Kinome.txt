@@ -1,0 +1,2 @@
+
+Kinome: A subset of the genome consisting of the protein kinase genes. The complete complement of over 500 protein kinases constitutes one of the largest of all human gene families. Protein kinases act as key regulators of cell function by catalyzing (facilitating) the addition of a negatively charged phosphate group to proteins. This process of protein <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=8935" onclick="wmdTrack('embd-lnk');" rel="dict">phosphorylation</a>, in turn, regulates protein function in both normal and disease states.

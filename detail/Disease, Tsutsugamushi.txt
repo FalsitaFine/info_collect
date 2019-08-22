@@ -1,0 +1,7 @@
+
+Disease, Tsutsugamushi: Scrub <a href="https://www.medicinenet.com/typhus/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">typhus</a>, a mite-borne
+infectious disease caused by a microorganism, Rickettsia tsutsugamushi, characteristically
+with <a href="https://www.medicinenet.com/aches_pain_fever/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">fever</a>, <a href="https://www.medicinenet.com/headache/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">headache</a>, a raised (macular) <a href="https://www.medicinenet.com/rash/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">rash</a>, swollen glands (lymphadenopathy) and a dark
+crusted ulcer (called an eschar or tache noire) at the site of the chigger (mite larva)
+bite. This disease occurs in the area bounded by Japan, India, and Australia. Known also
+as mite-borne typhus and tropical typhus. 

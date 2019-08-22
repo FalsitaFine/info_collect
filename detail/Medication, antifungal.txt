@@ -1,0 +1,3 @@
+
+Medication, antifungal: A drug used to treat fungal infections.
+Examples of antifungal drugs include <a href="https://www.medicinenet.com/miconazole/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">miconazole</a> (MONISTAT) and <a href="https://www.medicinenet.com/clotrimazole/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">clotrimazole</a> (LOTRIMIN, MYCELEX).

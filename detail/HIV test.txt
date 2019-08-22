@@ -1,0 +1,3 @@
+
+<a href="https://www.medicinenet.com/hiv_testing/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">HIV test</a>: A test for the <a href="https://www.medicinenet.com/human_immunodeficiency_virus_hiv/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">human immunodeficiency virus</a>, the cause of
+AIDS. HIV tests are designed to detect antibodies to the HIV virus or the HIV virus itself.

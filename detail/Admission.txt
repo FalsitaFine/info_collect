@@ -1,0 +1,2 @@
+
+Admission: Entry. As a patient admission (into a hospital). The opposite of admission in this context is discharge.

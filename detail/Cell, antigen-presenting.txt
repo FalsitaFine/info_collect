@@ -1,0 +1,2 @@
+
+Cell, antigen-presenting: A cell that can "present" antigen in a form that T cells can recognize it. The cells that can "present" antigen include B cells and cells of the monocyte lineage (including macrophages).

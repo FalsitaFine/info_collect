@@ -1,0 +1,2 @@
+
+Ear thermometer: A thermometer that registers body temperature via the ear canal.

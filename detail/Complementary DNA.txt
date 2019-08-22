@@ -1,0 +1,2 @@
+
+Complementary DNA: Single-stranded DNA made in the laboratory from a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4357" onclick="wmdTrack('embd-lnk');" rel="dict">messenger RNA</a> template under the aegis of the enzyme reverse transcriptase. This form of DNA is often used as a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=5052" onclick="wmdTrack('embd-lnk');" rel="dict">probe</a> in the physical mapping of a chromosome. Abbreviated as cDNA. 

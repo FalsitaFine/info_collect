@@ -1,0 +1,31 @@
+
+Eye: The organ of sight. The
+eye has a number of components. These components include but are not limited to the cornea, 
+iris, pupil, lens,
+retina, macula, optic nerve, choroid and vitreous.
+<img align="RIGHT" alt="diagram of the eye" height="251" hspace="5" src="https://images.medicinenet.com/images/eyestruc.gif" width="267"/>
+The cornea is the clear front window of the eye that 
+transmits and focuses
+light into the eye.
+The iris is the colored part of the eye that helps 
+regulate the amount of
+light that enters the eye.
+The pupil is the dark aperture in the iris that 
+determines how much light
+is let into the eye.
+The lens is the transparent structure inside the eye that 
+focuses light
+rays onto the retina.
+The retina is the nerve layer that lines the back of the 
+eye, senses light
+and creates impulses that travel through the optic nerve to 
+the brain.
+The macula is a small area in the retina that contains 
+special
+light-sensitive cells and allows us to see fine details 
+clearly.
+The optic nerve is the nerve that connects the eye to the 
+brain and
+carries the impulses formed by the retina to the visual 
+cortex of the brain.
+The choroid is a thin vascular layer between the sclera and the retina that supplies blood to the retina and conducts arteries and nerves to other structures in the eye.

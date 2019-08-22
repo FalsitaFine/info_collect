@@ -1,0 +1,2 @@
+
+Gene family: A group of genes that are related in structure and often in function. The genes in a gene family are descended from an ancestral gene. For example, the <a href="https://www.medicinenet.com/hemoglobin/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">hemoglobin</a> genes belong to one gene family that was created by gene duplication and divergence.

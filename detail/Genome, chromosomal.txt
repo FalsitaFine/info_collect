@@ -1,0 +1,7 @@
+
+Genome, chromosomal: All of the genetic information in
+the chromosomes of an organism. For humans, that is all of the DNA contained in our normal
+complement of 46 rod-like chromosomes in virtually every cell in the body. (Mature red
+blood cells, for one exception, have no nucleus and therefore no chromosomes). The
+chromosomal genome is synonymous with the nuclear genome. Together with the mitochondrial
+genome, it constitutes the genome of the human being.

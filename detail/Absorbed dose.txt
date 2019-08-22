@@ -1,0 +1,2 @@
+
+Absorbed dose: In radiology, the amount of energy that is deposited in any material by ionizing radiation. The unit of absorbed dose, the rad, is a measure of energy absorbed per <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=12095" onclick="wmdTrack('embd-lnk');" rel="dict">gram</a> of material. An alternative unit of absorbed dose is the gray. One gray equals 100 rads.

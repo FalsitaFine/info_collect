@@ -1,0 +1,2 @@
+
+Bar graph:  A visual display using bars to represent the relative size of different categories of a variable, with each category or value of the variable represented by a bar, usually with a gap between the bars. A bar graph is often used to illustrate the major features of the distribution of data because it is an easier and quicker way to see and grasp the information. Bar graphs are frequently used in medicine. Also called a bar chart.

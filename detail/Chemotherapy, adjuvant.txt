@@ -1,0 +1,2 @@
+
+Chemotherapy, adjuvant: <a href="https://www.medicinenet.com/chemotherapy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">Chemotherapy</a> given after removal of a cancerous <a href="https://www.medicinenet.com/tumor_grade/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">tumor</a> to further help in treatment. Many chemotherapy drugs are most effective after the majority of the tumor has been removed.

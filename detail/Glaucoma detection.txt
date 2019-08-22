@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/glaucoma/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Glaucoma</a> detection: You may know of the "air puff" test or other tests used to measure eye pressure in an eye examination. However, this test alone cannot detect glaucoma. Glaucoma is found most often during an eye examination through dilated pupils after drops are put into the eyes during the exam to enlarge the pupils. This allows the ophthalmologist to see more of the inside of the eye to check for signs of glaucoma.

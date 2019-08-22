@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/insulin/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">Insulin</a>: A natural hormone made by the pancreas that controls the level of the <a href="https://www.medicinenet.com/sugar_addiction_pictures_slideshow/article.htm" onclick="wmdTrack('embd-lnk');" rel="slide">sugar</a> glucosein the blood. <a href="https://www.medicinenet.com/insulin/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">Insulin</a> permits cells to use glucose for energy. Cells cannot utilize glucose without insulin.

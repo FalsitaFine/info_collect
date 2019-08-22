@@ -1,0 +1,2 @@
+
+Diseases related to obesity: <a href="https://www.medicinenet.com/obesity_weight_loss/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Obesity</a> increases the risk of developing a large number of diseases.

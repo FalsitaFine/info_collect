@@ -1,0 +1,4 @@
+
+Cell, T-4: A type of T cell that has CD4 markers on its surface and participates in the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3906" onclick="wmdTrack('embd-lnk');" rel="dict">immune response</a> by recognizing foreign antigens and secreting substances called cytokines that activate T and B cells. T-helper cells fall into two main classes: those that activate other T cells to achieve cellular inflammatory responses; and those that drive B cells to produce antibodies in the humoral immune response. These two classes of response are generally incompatible with one another and require coordination by substances called cytokines to promote one response while dampening the other.
+  The HIV virus attacks T-helper cells, knocking out the body's ability to defend itself against infections.  
+T-4 cells are also known as CD4 cells, T-helper cells, helper cells, and helper T cells.

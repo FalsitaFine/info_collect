@@ -1,0 +1,3 @@
+
+Control (genetic): The control of <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3564" onclick="wmdTrack('embd-lnk');" rel="dict">gene expression</a>. Genetic control may be on the transcriptional or translational level. Transcriptional control works by
+controlling the number of RNA transcripts of a region of DNA, indirectly controlling protein synthesis. Translational control of protein synthesis works by regulating the step of translating RNA into protein.

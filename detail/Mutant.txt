@@ -1,0 +1,2 @@
+
+Mutant: An individual with a mutant (changed) gene.

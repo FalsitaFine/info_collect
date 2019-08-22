@@ -1,0 +1,2 @@
+
+Electron microscope: A microscope in which an electron beam replaces light to form the image. An electron microscope permits greater magnification and resolution than an optical microscope, but the electron densities of objects are shown rather than their actual images. Abbreviated EM.

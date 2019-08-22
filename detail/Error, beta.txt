@@ -1,0 +1,2 @@
+
+Error, beta: The statistical error (said to be 'of the second kind,' or type II) that is made in testing when it is concluded that something is negative when it really is positive. Also known as false negative.

@@ -1,0 +1,3 @@
+
+Hounsfield: 1. <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=38584" onclick="wmdTrack('embd-lnk');" rel="dict">Godfrey Hounsfield</a>, a key contributor to the creation of the CAT scanner.<br>
+2. The unit measuring the brightness of images that appear on a CAT scanner.</br>

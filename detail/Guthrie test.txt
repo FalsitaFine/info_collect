@@ -1,0 +1,8 @@
+
+Guthrie test: A simple screening blood test for <a href="https://www.medicinenet.com/phenylketonuria/article.htm">phenylketonuria</a> (PKU). The Guthrie test was the original impetus to newborn metabolic screening.
+In 1958-59 Dr. Robert Guthrie (1916-95) was asked if he might to develop a simple method to monitor the blood phenylalanine (phe) level. He developed a test in 3 days. It was a "bacterial inhibition assay." 
+A spot of blood on a filter paper disc is placed on the surface of an agar plate containing a substance that inhibits the growth of bacteria. However, the inhibition can be overcome by high phe. After incubating the agar plate overnight, the diameter of the growth zone around the test disc is compared to that of a control disc of blood serum to which a known quantity of phe has been added. This permits one to estimate the amount of phe in the test disc. 
+Bob Guthrie used a common, standardized strain of soil bacterium, Bacillus subtilis. The inhibitor was -2-thienylalanine, which  inhibits the growth of B. subtilis, an effect that was relieved by phe. Guthrie's original agar dish was a Pyrex baking pan.
+Guthrie went on to develop bacterial inhibition assays for other inherited disorders of metabolism, including maple syrup urine, galactosemia, maple syrup urine disease and homocystinuria. These assays are simple, inexpensive, and suited to screening large numbers of individual specimens.
+The three main laboratory methods now used in the US are the Guthrie bacterial inhibition assay (BIA), fluorometric analysis, and tandem mass spectrometry. Each of these methods can reliably detect PKU. 
+See <a href="https://www.medicinenet.com/phenylketonuria/article.htm">phenylketonuria</a>.

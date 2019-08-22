@@ -1,0 +1,2 @@
+
+Nondisjunction: Failure of paired chromosomes to separate (to disjoin) during cell division, so that both chromosomes go to one daughter cell and none go to the other. Nondisjunction causes errors in chromosome number, such as trisomy 21 (<a href="https://www.medicinenet.com/down_syndrome_overview/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Down syndrome</a>) and monosomy X (<a href="https://www.medicinenet.com/turner_syndrome/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Turner syndrome</a>). It is also a common cause of early spontaneous abortions.

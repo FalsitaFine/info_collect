@@ -1,0 +1,3 @@
+
+Deinococcus radiodurans: A <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2416" onclick="wmdTrack('embd-lnk');" rel="dict">bacterium</a> that can
+survives extremely high levels of radiation and therefore has high potential for radioactive waste cleanup. The genome of Deinococcus radiodurans has been sequenced. It is composed of two chromosomes, a megaplasmid, and a small <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4938" onclick="wmdTrack('embd-lnk');" rel="dict">plasmid</a>. The total genome contains 3,284, 156 base pairs. Deinococcus radiodurans is an organism in which all systems for DNA repair, DNA damage export, desiccation and starvation recovery, and genetic redundancy are all present in one cell.

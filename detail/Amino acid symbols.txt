@@ -1,0 +1,2 @@
+
+Amino acid symbols: Symbols that stand for the amino acids, the building blocks of protein. Each amino acid has both a three-letter symbol and a single-letter symbol. For example, the three-letter and single-letter symbols for alanine are Ala and A. The three-letter symbols (such as Ala) are much more widely used than the single letter ones (such as A).

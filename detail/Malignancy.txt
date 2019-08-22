@@ -1,0 +1,2 @@
+
+Malignancy: A <a href="https://www.medicinenet.com/tumor_grade/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">tumor</a> that is malignant (cancerous), that can invade and destroy nearby tissue, and that may spread (metastasize) to other parts of the body.

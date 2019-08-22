@@ -1,0 +1,2 @@
+
+DTaP: <a href="https://www.medicinenet.com/diphtheria_facts/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Diphtheria</a>-<a href="https://www.medicinenet.com/tetanus/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Tetanus</a>-acellular Pertussis vaccine.

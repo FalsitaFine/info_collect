@@ -1,0 +1,12 @@
+
+Cancer, breast: Cancer of the tissue containing or
+involving the milk glands (mammary tissue).                                                         
+                            <div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/breast_cancer_facts_stages/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/4/2018</span></i></div><a class="mediaPrmo ss" href="https://www.medicinenet.com/breast_cancer_pictures_slideshow/article.htm" onclick="wmdTrack('ssprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com//images/slideshow/breast-cancer-s1-woman-hugging-at-breast-cancer-march.jpg"/>
+<span class="skew"></span>
+<span class="icon-slideshow"></span>
+<h4 class="label">SLIDESHOW</h4>
+<span class="caption">Breast Cancer Diagnosis and Treatment</span>
+<span class="btn">See Slideshow</span>
+</a>

@@ -1,0 +1,2 @@
+
+MDI: 1. <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=25819" onclick="wmdTrack('embd-lnk');" rel="dict">Metered-dose inhaler</a>;  2. <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=25822" onclick="wmdTrack('embd-lnk');" rel="dict">Multiple daily injections</a>; 3. Mental developmental index, as in "the Bayley Mental Developmental Index (MDI), which measures language, memory, and problem-solving abilities."

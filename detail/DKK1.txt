@@ -1,0 +1,3 @@
+
+DKK1: A gene that inhibits the activity of osteoblasts, the cells that build bone. DKK1 acts by inhibiting Wnt signaling, which is essential for the growth and development of osteoblasts. 
+DKK1 is overexpressed in the plasma cells in <a href="https://www.medicinenet.com/multiple_myeloma/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">multiple myeloma</a>. The DKK1 produced by the myeloma cells tips the balance between osteoblasts and osteoclasts in favor of bone resorption. This contributes to the maintenance of the lytic ("punched-out")  lesions in bone characteristic of multiple myeloma. DKK1 stands for Dickkopf1.

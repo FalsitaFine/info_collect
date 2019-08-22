@@ -1,0 +1,2 @@
+
+Humidifier: A machine that puts moisture into the air. Humidified air makes it easier to breathe for persons with certain conditions, such as <a href="https://www.medicinenet.com/cystic_fibrosis/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cystic fibrosis</a>, <a href="https://www.medicinenet.com/sjogrens_syndrome/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Sjogren's syndrome</a>, and others.

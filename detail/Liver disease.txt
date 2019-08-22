@@ -1,0 +1,2 @@
+
+Liver disease: <a href="https://www.medicinenet.com/liver_disease/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Liver disease</a> refers to any disorder of the liver. The liver is a large organ in the upper right abdomen that aids in digestion and removes waste products from the blood.

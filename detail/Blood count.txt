@@ -1,0 +1,2 @@
+
+Blood count: The calculated number of white or red blood cells (WBCs or RBCs) in a cubic millimeter of blood.

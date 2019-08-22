@@ -1,0 +1,2 @@
+
+Finished DNA sequence: A DNA sequence in which the bases are identified to an accuracy of no more than 1 error in 10,000 and are placed in the right order and orientation along a chromosome with almost no gaps. A finished sequence is as opposed to a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=16840" onclick="wmdTrack('embd-lnk');" rel="dict">draft DNA sequence</a>.

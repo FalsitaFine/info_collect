@@ -1,0 +1,3 @@
+
+DNA virus: A virus in which the genetic material is DNA rather than RNA. The DNA may be either double- or single-stranded.
+Major groups of double-stranded DNA viruses (class I viruses) include the adenoviruses, the herpes viruses, and the poxviruses. Major groups of single-stranded DNA viruses (class II viruses) include the parvoviruses and coliphages.

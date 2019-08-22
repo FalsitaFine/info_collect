@@ -1,0 +1,2 @@
+
+Change, single base: A change in which a single base in the DNA differs from the usual base at that position. These single base changes are also called SNPs or "snips." Millions of SNP's have been cataloged in the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3818" onclick="wmdTrack('embd-lnk');" rel="dict">human genome</a>. Some SNPs such that which causes sickle cell are responsible for disease. Other SNPs are normal variations in the genome.

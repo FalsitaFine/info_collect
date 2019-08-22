@@ -1,0 +1,5 @@
+
+Complementary sequence: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4594" onclick="wmdTrack('embd-lnk');" rel="dict">Nucleic acid</a> sequence of bases
+that can form a double- stranded structure by matching base pairs. For example, the
+ complementary sequence to C-A-T-G (where each letter stands for one of the bases in DNA)
+is G-T-A-C.

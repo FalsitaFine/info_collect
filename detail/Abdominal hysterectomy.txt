@@ -1,0 +1,2 @@
+
+Abdominal <a href="https://www.medicinenet.com/hysterectomy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">hysterectomy</a>: Surgical removal of the uterus (a hysterectomy) done through an incision made in the abdominal wall. This may also be done by <a href="https://www.medicinenet.com/laparoscopy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">laparoscopy</a>. As opposed to a vaginal hysterectomy, in which the incision is made within the vagina.

@@ -1,0 +1,2 @@
+
+Microscope, electron: A microscope in which an electron beam replaces light to form the image. <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3217" onclick="wmdTrack('embd-lnk');" rel="dict">Electron microscopy</a> (EM) has both pluses (greater magnification and resolution than optical microscopes) and minuses (the observer is not really 'seeing' objects, but rather their electron densities, so artifacts may be present).

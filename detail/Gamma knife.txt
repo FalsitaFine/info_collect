@@ -1,0 +1,2 @@
+
+Gamma knife: A type of radiosurgery (<a href="https://www.medicinenet.com/radiation_therapy/article.htm">radiation therapy</a>) machine that acts by focusing low-dosage gamma radiation from many sources on a precise target. Areas adjacent to the target receive only slight doses of radiation, while the target gets the full intensity.

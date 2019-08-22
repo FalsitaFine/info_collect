@@ -1,0 +1,4 @@
+
+Colinearity: 1. In general, the arrangement of one sequence in the same linear order as another sequence.<br>
+2. In developmental <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=15390" onclick="wmdTrack('embd-lnk');" rel="dict">genetics</a>, the arrangement of genes on chromosomes in the same order as they are activated along the body axis during development, a principle discovered in 1957 by Edward Lewis.<br>
+3. In molecular genetics, the correspondence between the linear order of the nucleotide codons in the DNA, the sequence of <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4357" onclick="wmdTrack('embd-lnk');" rel="dict">messenger RNA</a>, and the order of <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=39555" onclick="wmdTrack('embd-lnk');" rel="dict">amino acids</a> in the protein.</br></br>

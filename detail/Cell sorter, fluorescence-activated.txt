@@ -1,0 +1,11 @@
+
+Cell sorter, fluorescence-activated: A flow 
+cytometer (a scientific
+instrument used to measure the characteristics of 
+individual cells) that is
+modified for the purpose of separating (sorting) cells 
+based on the amount
+of light (fluorescence) emitted by each cell. The 
+abbreviation for
+fluorescence-activated cell sorter is FACS (pronounced like 
+"fax").

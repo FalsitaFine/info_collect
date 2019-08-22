@@ -1,0 +1,3 @@
+
+Genomics, structural: The study of the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=13995" onclick="wmdTrack('embd-lnk');" rel="dict">proteome</a>, the three-dimensional structures of all of the proteins produced by a species.
+In the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3819" onclick="wmdTrack('embd-lnk');" rel="dict">Human Genome Project</a>, the sequence of all the DNA in our genome was largely deciphered. <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=14003" onclick="wmdTrack('embd-lnk');" rel="dict">Structural genomics</a> aims to achieve a comparable degree of understanding of the proteome.

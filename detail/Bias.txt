@@ -1,0 +1,3 @@
+
+Bias: 1. When a point of view prevents impartial judgment on issues relating to the subject of that point of view. In a clinical trial, bias refers to effects that a conclusion that may be incorrect as, for example, when a researcher or patient knows what treatment is being given. To avoid bias, a blinded study may be done. 
+2. Deviation of results or inferences from the truth, or processes leading to such systematic deviation. Any trend in the collection, analysis, interpretation, publication, or review of data that can lead to conclusions that are systematically different from the truth.

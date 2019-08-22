@@ -1,0 +1,4 @@
+
+Genomic imprinting: The phenomenon of parent-of-origin gene expression. The expression of a gene depends upon the parent who passed on the gene. 
+For instance, two different disorders - <a href="https://www.medicinenet.com/prader-willi_syndrome/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Prader-Willi syndrome</a> and <a href="https://www.medicinenet.com/angelman_syndrome/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Angelman syndrome</a> -- are due to deletion of the same part of chromosome 15. When the deletion involves the chromosome 15 that came from the father, the child has Prader-Willi syndrome, but when the deletion involves the chromosome 15 that came from the mother, the child has Angelman syndrome. 
+Genomic imprinting plays a critical role in fetal growth and development. Imprinting is regulated by DNA methylation and chromatin structure.

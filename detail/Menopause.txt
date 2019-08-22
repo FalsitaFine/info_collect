@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/menopause/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Menopause</a>: The time in a woman's life when menstrual periods permanently stop; it is also called the "change of life."

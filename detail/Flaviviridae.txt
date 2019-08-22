@@ -1,0 +1,3 @@
+
+Flaviviridae: A family of viruses transmitted by mosquitos and <a href="https://www.medicinenet.com/ticks/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">ticks</a> that cause some important diseases, including
+dengue, <a href="https://www.medicinenet.com/yellow_fever/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">yellow fever</a>, tick-borne encephalitis virus, and West Nile <a href="https://www.medicinenet.com/aches_pain_fever/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">fever</a>. The flaviviruses are positive-strand RNA viruses containing three structural proteins and a host-derived lipid bilayer.

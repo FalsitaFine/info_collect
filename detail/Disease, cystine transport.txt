@@ -1,0 +1,11 @@
+
+Disease, cystine transport: See: <a href="https://www.medicinenet.com/cystinuria/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Cystinuria</a>.                                                         
+                            <div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/cyst/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/27/2018</span></i></div><a class="mediaPrmo quiz" href="https://www.medicinenet.com/human_body_quiz/quiz.htm" onclick="wmdTrack('quizprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com/images/quiz/human-body/human-body-s1.jpg"/>
+<span class="skew"></span>
+<span class="icon-quiz"></span>
+<h4 class="label">QUESTION</h4>
+<span class="caption">What percentage of the human body is water?</span>
+<span class="btn">See Answer</span>
+</a>

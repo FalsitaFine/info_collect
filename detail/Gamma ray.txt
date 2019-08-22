@@ -1,0 +1,2 @@
+
+Gamma ray: High-energy electromagnetic radiation emitted by certain radionuclides when their nuclei transition from a higher to a lower energy state. Gamma rays have high energy and a short wave length. All gamma rays emitted from a given isotope have the same energy, a characteristic that enables scientists to identify which gamma emitters are present in a sample. Gamma rays penetrate tissue farther than do beta particles or alpha particles, but leave a lower concentration of ions in their path to potentially cause cell damage. Gamma rays are similar to x-rays.

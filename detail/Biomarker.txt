@@ -1,0 +1,2 @@
+
+Biomarker: A biologic feature that can be used to measure the presence or progress of disease or the effects of treatment. For example, prostate specific antigen (PSA) is a biomarker for <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cancer</a> of the prostate.

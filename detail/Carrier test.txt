@@ -1,0 +1,2 @@
+
+Carrier test: A test designed to detect carriers of a gene for a recessive genetic disorder. For example, carrier testing is done for the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=11232" onclick="wmdTrack('embd-lnk');" rel="dict">sickle cell trait</a>, thalassemia trait, and Tay-Sachs gene.

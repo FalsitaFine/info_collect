@@ -1,0 +1,2 @@
+
+Cytometry, flow: Analysis of biological material via detection of the light-absorbing or fluorescing properties of cells, or of subcellular fractions such as chromosomes, as they pass in a narrow stream through a laser beam. Flow cytometry can be used with automated sorting devices to sort successive droplets of a stream into different fractions, depending on the fluorescence emitted by each droplet.

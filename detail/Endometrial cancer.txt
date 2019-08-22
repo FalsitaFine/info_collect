@@ -1,0 +1,15 @@
+
+Endometrial cancer: <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Cancer</a> of the womb (the uterus ). Endometrial cancer occurs most often in women between the ages of 55 and 70 years. It accounts for about 6% of cancer in women. Women at elevated risk for endometrial cancer include those who are obese, who have few or no children, who began menstruating at a young age, who had a late <a href="https://www.medicinenet.com/menopause/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">menopause</a>, and women of high socioeconomic status. It is thought that most of these risk factors are related to hormones, especially excess estrogen.
+
+ 
+
+Abnormal bleeding after menopause is the most common symptom of endometrial cancer. The diagnosis is based on the results of the pelvic examination, <a href="https://www.medicinenet.com/pap_smear/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">pap smear</a>, biopsy of the uterus, and D &amp; C (dilatation and curettage). Treatment may involve surgery, <a href="https://www.medicinenet.com/radiation_therapy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">radiation therapy</a>, <a href="https://www.medicinenet.com/hormone_therapy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">hormone therapy</a>, or  <a href="https://www.medicinenet.com/chemotherapy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">chemotherapy</a> .
+In its early stage, endometrial cancer is usually treated by surgery. The uterus and cervix are removed by <a href="https://www.medicinenet.com/hysterectomy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">hysterectomy</a>.
+ Radiation therapy may be done before surgery to shrink
+the cancer or after surgery to prevent recurrence of the cancer. A combination of external and internal radiation therapy is often used. If the cancer has spread extensively or has recurred after treatment, a female hormone (progesterone) or chemotherapy may be recommended.<!--START IMAGETAG-->
+<div id="lrgArtImg">
+<div itemscope="" itemtype="https://schema.org/CreativeWork">
+<img alt="Female Illustration - Endometrial cancer" itemprop="image" src="https://images.medicinenet.com/images/ABUTERUS.GIF">
+</img></div>
+</div>
+<!--END IMAGETAG-->

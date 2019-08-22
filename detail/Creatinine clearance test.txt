@@ -1,0 +1,18 @@
+
+Creatinine clearance test: A test that helps determine whether the kidneys are functioning normally. Specifically, the creatinine-clearance test gauges the rate at which a waste, creatinine, is "cleared" from the blood by the kidneys. Creatinine is produced from the metabolism of protein as when muscles burn energy. Most creatinine is then filtered out of the blood by the kidneys and excreted in urine. 
+The rate of creatinine clearance is measured by first noting the volume of urine excreted in a given time period, such as 24 hours. Then the amount of creatinine in the excreted urine is measured and compared with the amount of creatinine circulating in the blood. If the kidneys are not removing enough creatinine, the level of creatinine in the urine will fall. And consequently the level of creatinine in the blood will rise.
+
+ When the kidneys fail to clear enough creatinine and other wastes from the blood, the wastes build up in the bloodstream. Symptoms of kidney disease -- including swelling (<a href="https://www.medicinenet.com/edema/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">edema</a>), nausea, and <a href="https://www.medicinenet.com/high_blood_pressure_hypertension/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">high blood pressure</a> -- may develop. 
+However, the creatinine-clearance test can usually detect waste buildup in the blood before it threatens the body. Doctors can then have an opportunity to eliminate the cause of the buildup and restore blood creatinine to normal levels. A creatinine-clearance test, thus, plays a key role in preventive medicine as well as in diagnostic and therapeutic medicine.
+
+Calculating creatinine levels requires the following information:
+
+ A. The average volume in milliliters of urine excreted in one minute. (A milliliter is a metric unit equal to one-thousandth of a liter.)
+ B. The average amount of creatinine in milligrams in one liter of excreted urine. (A milligram is a metric unit equal to one-thousandth of a gram.)
+ C. The average amount of creatinine in milligrams in one deciliter of blood. (A deciliter is a metric unit equal to one-tenth of a liter.)
+
+ The creatinine-clearance rate is arrived at by first multiplying A by B, then dividing the result (product) by C.
+
+ The rate is expressed in milliliters per minute. Normal values for adult males range from about 110 to 120 milliliters per minute. Normal values for adult females range from about 100 to 110 milliters per minute.
+
+"Creatinine" is derived from the Greek word "kreas," meaning "flesh." The suffix "-ine" denotes a chemical substance.

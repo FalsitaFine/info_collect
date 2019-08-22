@@ -1,0 +1,2 @@
+
+Functional gene test: A test for a specific protein which indicates not only that the corresponding gene is present but also that it is active.

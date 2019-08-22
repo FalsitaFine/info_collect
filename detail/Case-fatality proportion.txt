@@ -1,0 +1,2 @@
+
+Case-fatality proportion: The number of cases of a disease ending in death compared to the number of cases of the disease. Usually expressed as a percentage.

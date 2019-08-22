@@ -1,0 +1,2 @@
+
+Cassette: A pre-existing structure into which an insert can be moved. In <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=25720" onclick="wmdTrack('embd-lnk');" rel="dict">molecular biology</a>, a gene conversion process in which the old gene is replaced with a copy of a silent gene and the new copy becomes active. As the process involves replacing one ready made construct with another in an active slot, it is termed a cassette mechanism.

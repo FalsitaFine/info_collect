@@ -1,0 +1,6 @@
+
+Autoradiography: A technique using X- ray film to
+visualize molecules or fragments of molecules that have been radioactively labeled.
+ Autoradiography has many applications in the laboratory. Autoradiography can, for example,
+be used to analyze the length and number of DNA fragments after they are separated from
+one another by a method called <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=13534" onclick="wmdTrack('embd-lnk');" rel="dict">gel electrophoresis</a>.

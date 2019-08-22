@@ -1,0 +1,2 @@
+
+APC (immunology): <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=10098" onclick="wmdTrack('embd-lnk');" rel="dict">Antigen-presenting cell</a>, a cell that can "present" antigen in a form that T cells can recognize it. Among the APCs are B cells and cells of the monocyte lineage including macrophages.

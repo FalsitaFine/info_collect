@@ -1,0 +1,2 @@
+
+Infection, nosocomial: An infection acquired in a hospital. Specifically an infection that was not present or incubating prior to the patient being admitted to the hospital, but occurred  after admittance to the hospital.

@@ -1,0 +1,2 @@
+
+Fluoroscopy: An x-ray procedure that makes it possible to see internal organs in motion. Fluoroscopy uses x-ray to produce real-time video images. After the <a href="https://www.medicinenet.com/x-rays/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">x-rays</a> pass through the patient, they are captured by a device called an image intensifier and converted into light. The light is then captured by a TV camera and displayed on a video monitor.

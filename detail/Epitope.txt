@@ -1,0 +1,2 @@
+
+Epitope: A single antigenic site on a protein  against which an antibody reacts.

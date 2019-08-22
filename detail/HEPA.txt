@@ -1,0 +1,2 @@
+
+HEPA: Acronym that stands for High-Efficiency Particulate Air and for High-Efficiency Particulate Arrestor. HEPA filters are used for isolation and immunocompromise units, operating rooms, removal of allergens from the air (for <a href="https://www.medicinenet.com/hay_fever/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">hay fever</a>, <a href="https://www.medicinenet.com/asthma_overview/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">asthma</a>, etc.) and other applications where maximum reduction or removal of submicron particulate matter from air is required.

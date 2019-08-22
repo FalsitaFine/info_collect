@@ -1,0 +1,4 @@
+
+Cosmid: DNA from a bacterial virus into which is spliced a small fragment of a genome to be amplified and sequenced. A cosmid is an artificially constructed structure. It is
+used in cloning (copying) pieces of DNA. (On a technical level, a cosmid contains the cos gene of phage lambda and can be packaged in a lambda phage particle for infection into <a href="https://www.medicinenet.com/e_coli__0157h7/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">E. coli,</a> permitting cloning of larger DNA fragments that can be introduced into bacterial hosts in
+plasmid vectors).

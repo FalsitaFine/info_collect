@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/bilirubin_and_bilirubin_blood_test/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">Bilirubin</a>: A yellow-orange compound that is produced by the breakdown of <a href="https://www.medicinenet.com/hemoglobin/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">hemoglobin</a> from red blood cells.

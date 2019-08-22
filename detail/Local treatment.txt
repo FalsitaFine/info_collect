@@ -1,0 +1,3 @@
+
+Local treatment: Treatment that affects the tumor and the area
+close to it. 

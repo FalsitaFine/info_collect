@@ -1,0 +1,12 @@
+
+<a href="https://www.medicinenet.com/coronary_angiogram/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">Angiogram</a>: An X-ray image of blood vessels. The vessels can be seen because a contrast dye within them blocks the <a href="https://www.medicinenet.com/x-rays/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">X-rays</a>.                                                         
+                            <div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/coronary_angiogram/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/4/2018</span></i></div><a class="mediaPrmo quiz" href="https://www.medicinenet.com/heart_disease_quiz/quiz.htm" onclick="wmdTrack('quizprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com/images/quiz/heart-disease/s7.jpg"/>
+<span class="skew"></span>
+<span class="icon-quiz"></span>
+<h4 class="label">QUESTION</h4>
+<span class="caption">In the U.S., 1 in every 4 deaths is caused by heart disease.</span>
+<span class="btn">See Answer</span>
+</a>
+</div>

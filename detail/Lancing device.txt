@@ -1,0 +1,2 @@
+
+Lancing device: A device that holds a lancet  firmly, and when triggered, moves the lancet linearly ahead to prick the skin in a controlled manner. Lancing devices usually can be adjusted to alter the depth that the lancet goes into the skin. The purpose is to obtain a small amount of capillary blood for testing. Also called a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=39544" onclick="wmdTrack('embd-lnk');" rel="dict">lancet device</a>.

@@ -1,0 +1,2 @@
+
+Ligand: A molecule that binds to another. Often, a soluble molecule such as a hormone or <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=9973" onclick="wmdTrack('embd-lnk');" rel="dict">neurotransmitter</a> that binds to a receptor.

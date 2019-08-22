@@ -1,0 +1,5 @@
+
+g (gram): Symbol for gram, a 
+unit of measurement of weight and mass in the metric system. In weight, a gram 
+is equal to a thousandth of a kilogram. In mass, a gram is equal to a thousandth 
+of a liter (one cubic centimeter) of water at 4 degrees centigrade.

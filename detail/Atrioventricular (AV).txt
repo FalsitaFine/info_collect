@@ -1,0 +1,4 @@
+
+Atrioventricular (AV): Pertaining to the atria (the upper chambers of the heart) and the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=26788" onclick="wmdTrack('embd-lnk');" rel="dict">ventricles</a> (the  lower chambers of the heart).
+
+The AV node is an electrical relay station between the atria and the ventricles. Electrical signals from the atria must pass through the AV node to reach the ventricles. The AV node is a major element in the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=8407" onclick="wmdTrack('embd-lnk');" rel="dict">cardiac conduction system</a> that generates electrical impulses within the heart, conducts them throughout the muscle of the heart, stimulates the heart to contract and pump blood, and so controls the heart rate.

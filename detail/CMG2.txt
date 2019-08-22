@@ -1,0 +1,3 @@
+
+CMG2: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=24108" onclick="wmdTrack('embd-lnk');" rel="dict">Capillary morphogenesis gene 2</a>, a transmembrane protein that is induced during capillary morphogenesis (the development of capillaries). Mutations in CMG2 cause
+ <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=24104" onclick="wmdTrack('embd-lnk');" rel="dict">infantile systemic hyalinosis</a> and <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=24103" onclick="wmdTrack('embd-lnk');" rel="dict">juvenile hyaline fibromatosis</a>.

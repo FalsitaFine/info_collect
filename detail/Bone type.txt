@@ -1,0 +1,18 @@
+
+Bone type: One of the four basic bone shapes in the human skeleton.<ol>
+<li>Long bones:  Long bones have a tubular shaft and articular surface at each end. The major bones of the arms (humerus, radius, and ulna) and the legs (the femur, tibia, and fibula) are all long bones. 
+	</li>
+<li>Short bones: Short bones also have a tubular shaft and articular surfaces at each end but are much smaller. The short bones include all of the <a href="https://www.medicinenet.com/image-collection/hand_picture/picture.htm" onclick="wmdTrack('embd-lnk');" rel="img">metacarpals</a> and phalanges in the hands, 
+	and the <a href="https://www.medicinenet.com/image-collection/foot_anatomy_detail_picture/picture.htm" onclick="wmdTrack('embd-lnk');" rel="img">metatarsals</a> and phalanges in the <a href="https://www.medicinenet.com/feet_facts_quiz/quiz.htm" onclick="wmdTrack('embd-lnk');" rel="quiz">feet</a>.</li>
+<li>Flat bones: Flat bones are thin and have broad surfaces. The flat bones include the scapula (wingbone), the ribs, and the sternum (breastbone). </li>
+<li>Irregular bones: Irregular bones are irregular in size and shape and are usually quite compact. They include the bones in the vertebral column, the carpal bones in the hands, tarsal bones in the feet, and the <a href="https://www.medicinenet.com/image-collection/torn_meniscus_picture/picture.htm" onclick="wmdTrack('embd-lnk');" rel="img">patella</a> (kneecap).</li>
+</ol>
+<div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/broken_bone_types_of_bone_fractures/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed"><i>Last Editorial Review: 1/25/2017</i></div><a class="mediaPrmo quiz" href="https://www.medicinenet.com/dental_oral_health_quiz/quiz.htm" onclick="wmdTrack('quizprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com/images/quiz/dental-health/s1.jpg"/>
+<span class="skew"></span>
+<span class="icon-quiz"></span>
+<h4 class="label">QUESTION</h4>
+<span class="caption">What causes tooth decay?</span>
+<span class="btn">See Answer</span>
+</a>

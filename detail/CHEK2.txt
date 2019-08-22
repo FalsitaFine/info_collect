@@ -1,0 +1,3 @@
+
+CHEK2: A gene on chromosome 22q that encodes a kinase enzyme and influences a person's susceptibility to <a href="https://www.medicinenet.com/breast_cancer_facts_stages/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">breast cancer</a>. A variant (allele) of CHEK2 that abolishes its kinase activity results in a 2-fold increase in the risk of <a href="https://www.medicinenet.com/breast_anatomy/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">breast</a> <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cancer</a> for women and a 10-fold increase in risk for men.
+The CHEK2 kinase is at a checkpoint in the cell cycle, is activated in response to DNA damage, and prevents the damaged cell from entering mitosis.

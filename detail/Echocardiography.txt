@@ -1,0 +1,2 @@
+
+Echocardiography: Echocardiography is a diagnostic test which uses <a href="https://www.medicinenet.com/ultrasound/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">ultrasound</a> waves to make images of the heart chambers, valves and surrounding structures. It can measure cardiac output and is a sensitive test for fluid around the heart (pericardial effusion). It can also be used to detect abnormal anatomy or infections of the heart valves.

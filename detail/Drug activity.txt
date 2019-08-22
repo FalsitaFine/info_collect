@@ -1,0 +1,2 @@
+
+Drug activity: A measure of the physiological response that a drug produces. A less active drug produces less response, and a more active drug produces more response.

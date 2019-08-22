@@ -1,0 +1,2 @@
+
+Basic Local Alignment Search Tool: Abbreviated BLAST. A computer program that identifies <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3779" onclick="wmdTrack('embd-lnk');" rel="dict">homologous</a> genes in different organisms (such as worms, the fruit fly, mice, and humans). Homologous genes are genes in different species that share similar structures and functions.

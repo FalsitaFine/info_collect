@@ -1,0 +1,2 @@
+
+Gene, transporter: A gene that allows drugs to enter cells or, in some cases, acts to keep them out. Transporter genes may account for discrepancies in the way drugs such as <a href="https://www.medicinenet.com/antidepressants/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">antidepressants</a>, anticonvulsants, and <a href="https://www.medicinenet.com/chemotherapy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">chemotherapy</a> agents work in different people. Also known as a drug-transporter gene.

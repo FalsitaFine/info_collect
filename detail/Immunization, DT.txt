@@ -1,0 +1,5 @@
+
+Immunization, DT: DT (<a href="https://www.medicinenet.com/diphtheria_facts/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">diphtheria</a> and <a href="https://www.medicinenet.com/tetanus/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">tetanus</a>) vaccine
+does not protect from pertussis and is usually reserved for individuals who have had a
+significant adverse reaction to a DPT shot or who have a personal or family history of a
+<a href="https://www.medicinenet.com/seizure/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt"> seizure</a> disorder or brain disease. 

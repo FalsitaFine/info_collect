@@ -1,0 +1,12 @@
+
+Alpha-synuclein: One in a family of structurally related proteins that are prominently expressed in the central nervous system. Aggregated alpha-synuclein proteins form <a href="https://www.medicinenet.com/brain_lesions_lesions_on_the_brain/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">brain lesions</a> that are hallmarks of some neurodegenerative diseases (synucleinopathies). The gene for alpha-synuclein, which is called SNCA, is on chromosome 4q21. Defects in this protein are believed to be related to the development of Parkinson disease.See also: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=25045" onclick="wmdTrack('embd-lnk');" rel="dict">Parkinson disease gene</a>.                                                         
+                            <div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/parkinsons_disease/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/21/2018</span></i></div><a class="mediaPrmo ss" href="https://www.medicinenet.com/impotence_pictures_slideshow_erectile_dysfunction/article.htm" onclick="wmdTrack('ssprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com//images/slideshow/erectile-dysfunction-s1-baseball-player-after-strikeout.jpg"/>
+<span class="skew"></span>
+<span class="icon-slideshow"></span>
+<h4 class="label">SLIDESHOW</h4>
+<span class="caption">Erectile Dysfunction (ED) Causes and Treatment</span>
+<span class="btn">See Slideshow</span>
+</a>
+</div>

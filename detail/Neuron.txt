@@ -1,0 +1,2 @@
+
+Neuron: A nerve cell that receives and sends electrical signals over long distances within the body. A neuron receives electrical input signals from sensory cells (called sensory neurons) and from other neurons. The neuron sends electrical output signals to muscle neurons (called motoneurons or motor neurons) and to other neurons. A neuron that simply signals another neuron is called an <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=23287" onclick="wmdTrack('embd-lnk');" rel="dict">interneuron</a>.

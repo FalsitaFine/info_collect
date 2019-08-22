@@ -1,0 +1,5 @@
+
+Childhood ataxia with central nervous system hypomyelinization: An inherited brain disease that occurs mainly in children and follows a chronic progressive course with additional episodes of rapid deterioration following <a href="https://www.medicinenet.com/stress/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">stress</a> from febrile infection or minor head trauma. 
+The disease is due to mutations in either of two genes -- in either the EIF2B5 gene on chromosome 3q27 or the EIF2B2 gene on chromosome 14q24. These two genes encode the epsilon and beta subunits, respectively, of the translation initiation factor eIF2B. Since eIF2B plays an essential role in the regulation of translation under different conditions, including stress, this may explain the rapid deterioration under stress.
+
+The disease is also known as leukoencephalopathy with vanishing white matter (VWM), myelinopathia centralis diffusa, or Cree leukoencephalopathy.

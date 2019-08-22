@@ -1,0 +1,6 @@
+
+C. elegans genome: All of the genetic information contained in the roundworm Caenorhabditis elegans (C. elegans).
+
+The genomes of particular nonhuman organisms such as C. elegans have been studied for a number of reasons including the need to improve sequencing and analysis techniques. These nonhuman genomes also provide powerful sets of data against which to compare the human genome. 
+For example, human genes that contribute to <a href="https://www.medicinenet.com/alzheimers_disease_causes_stages_and_symptoms/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Alzheimer's disease</a> and <a href="https://www.medicinenet.com/colon_cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">colon cancer</a> have counterpart genes in C. elegans. And at least 100 genes that regulate human fat metabolism have counterpart genes in C. elegans.  
+The C. elegans genome contains 97 million base pairs and is estimated to have 19,099 genes. The sequencing of this genome was completed in 1998.

@@ -1,0 +1,7 @@
+
+Marker: A piece of DNA that lies on a chromosome so 
+close to a gene that the marker and the gene are inherited together. 
+A marker is thus an identifiable heritable spot on a chromosome.
+A marker can be an expressed region of DNA (a gene) or a segment of 
+DNA with no known coding function. All that matters is that the marker can be detected and trailed.
+The term "marker" may be used in other contexts such with a blood marker or a tumor marker.

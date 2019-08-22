@@ -1,0 +1,3 @@
+
+AV (atrioventricular): AV is the standard medical abbreviation for atrioventricular, a combination that means pertaining to the atria (the upper chambers of the heart) and the ventricles (the lower chambers of the heart).
+For example, the AV node is an electrical relay station between the atria and the ventricles. Electrical signals from the atria must pass through the AV node to reach the ventricles. The AV node is a major element in the cardiac conduction system that generates electrical impulses within the heart, conducts them throughout the muscle of the heart, stimulates the heart to contract and pump blood, and so controls the heart rate.

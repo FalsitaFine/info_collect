@@ -1,0 +1,2 @@
+
+Centigrade: A thermometer scale in which the freezing point of water at sea level is 0'C and the boiling point of water at sea level is 100'C. The Centigrade scale is used in most of the world to indicate the temperature on a thermometer, but the Fahrenheit scale is still popular in the US. This anachronism requires conversion from Centigrade ('C) to Fahrenheit ('F), and vice versa. 1'C = (5/9) ('F'32). 1'F = (9/5)('C) + 32'.

@@ -1,0 +1,2 @@
+
+Folding motif: An independent folding unit, or particular structure, that recurs in many molecules.

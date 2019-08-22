@@ -1,0 +1,2 @@
+
+Children's immunizations: <a href="https://www.medicinenet.com/immunizations/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">Vaccinations</a> given to children to prevent the development of infectious diseases.

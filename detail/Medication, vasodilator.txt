@@ -1,0 +1,4 @@
+
+Medication, vasodilator: Drugs that act as blood vessel
+dilator (vasodilators) and open vessels by relaxing their muscular walls). For example,
+ <a href="https://www.medicinenet.com/nitroglycerin/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">nitroglycerin</a> is a vasodilator. So are the ACE (angiotensin converting enzyme) inhibitors.

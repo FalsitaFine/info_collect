@@ -1,0 +1,3 @@
+
+Lipitor: A type of statin that lowers the level of cholesterol in the blood.
+See: <a href="https://www.medicinenet.com/atorvastatin/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">Atorvastatin</a>.

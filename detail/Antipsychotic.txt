@@ -1,0 +1,2 @@
+
+Antipsychotic: A medication (or another measure) that is believed to be effective in the treatment of psychosis. For example, <a href="https://www.medicinenet.com/aripiprazole/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">aripiprazole</a> (Abilify) is an antipsychotic medication used to treat <a href="https://www.medicinenet.com/schizophrenia/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">schizophrenia</a>.

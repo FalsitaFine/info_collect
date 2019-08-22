@@ -1,0 +1,12 @@
+
+<a href="https://www.medicinenet.com/achalasia/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Achalasia</a>: A disease of the <a href="https://www.medicinenet.com/image-collection/esophagus_picture/picture.htm" onclick="wmdTrack('embd-lnk');" rel="img">esophagus</a> that mainly affects young adults. Abnormal function of nerves and muscles of the esophagus causes <a href="https://www.medicinenet.com/swallowing/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">difficulty swallowing</a> and sometimes <a href="https://www.medicinenet.com/chest_pain/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">chest pain</a>. Regurgitation of undigested food can occur, as can <a href="https://www.medicinenet.com/chronic_cough/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">coughing</a> or <a href="https://www.medicinenet.com/lungs_design_and_purpose/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">breathing</a> problems related to entry of food material into the <a href="https://www.medicinenet.com/image-collection/lungs_picture/picture.htm" onclick="wmdTrack('embd-lnk');" rel="img">lungs</a>. The underlying problems are <a href="https://www.medicinenet.com/weakness/symptoms.htm" onclick="wmdTrack('embd-lnk');" rel="sym">weakness</a> of the lower portion of the esophagus and failure of the lower esophageal sphincter to open and allow passage of food. Diagnosis is made by an X-ray, <a href="https://www.medicinenet.com/endoscopy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">endoscopy</a>, or <a href="https://www.medicinenet.com/esophageal_manometry/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">esophageal manometry</a>.                                                         
+                            <div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/achalasia/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/3/2018</span></i></div><a class="mediaPrmo quiz" href="https://www.medicinenet.com/pancreatitis_quiz/quiz.htm" onclick="wmdTrack('quizprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com/images/quiz/pancreatitis/pancreatitis-s1.jpg"/>
+<span class="skew"></span>
+<span class="icon-quiz"></span>
+<h4 class="label">QUESTION</h4>
+<span class="caption">Pancreatitis is inflammation of an organ in the abdomen called the pancreas. </span>
+<span class="btn">See Answer</span>
+</a>
+</div>

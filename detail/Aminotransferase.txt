@@ -1,0 +1,2 @@
+
+Aminotransferase: An enzyme that catalyzes the transfer of an amino group from a donor molecule to a recipient molecule. The donor molecule is usually an amino acid and the recipient molecule is usually an alpha-2 keto acid. Two of the best-known enzymes in this class are serum glutamic oxaloacetic transaminase (SGOT) and serum glutamic pyruvic transaminase (SGPT), both of which are normally found primarily in cells in the liver and heart.

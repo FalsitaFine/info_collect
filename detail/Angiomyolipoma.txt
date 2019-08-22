@@ -1,0 +1,3 @@
+
+
+<a href="https://www.medicinenet.com/angiomyolipoma/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Angiomyolipoma</a>: This is a benign (noncancerous) <a href="https://www.medicinenet.com/tumor_grade/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">tumor</a> of the kidney. An angiomyolipoma is composed of three types of cells:

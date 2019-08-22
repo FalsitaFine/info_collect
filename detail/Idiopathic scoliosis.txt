@@ -1,0 +1,11 @@
+
+Idiopathic scoliosis: See: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=11192">Scoliosis, idiopathic</a>. See also: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=5421">Scoliosis.</a>
+<div class="continue_reading">CONTINUE SCROLLING OR <a href="https://www.medicinenet.com/scoliosis/article.htm">CLICK HERE</a> FOR RELATED ARTICLE</div>
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/11/2018</span></i></div><a class="mediaPrmo ss" href="https://www.medicinenet.com/back_pain_pictures_myths_and_facts_slideshow/article.htm" onclick="wmdTrack('ssprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com//images/slideshow/back_pain_myths_s1_woman_holding_back.jpg"/>
+<span class="skew"></span>
+<span class="icon-slideshow"></span>
+<h4 class="label">SLIDESHOW</h4>
+<span class="caption">Back Pain: Find Relief, Treat Your Back Pain</span>
+<span class="btn">See Slideshow</span>
+</a>

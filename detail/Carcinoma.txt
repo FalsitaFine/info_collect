@@ -1,0 +1,2 @@
+
+Carcinoma: <a href="https://www.medicinenet.com/cancer/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Cancer</a> that begins in the skin or in tissues that line or cover body organs. Examples are carcinoma of the <a href="https://www.medicinenet.com/breast_anatomy/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">breast</a>, colon, liver, lung, pancreas, prostate, or stomach.

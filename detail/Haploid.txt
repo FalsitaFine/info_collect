@@ -1,0 +1,2 @@
+
+Haploid: A set of chromosomes that contains only one member of each chromosome pair. The sperm and egg are haploid and, in humans, each has 23 chromosomes.

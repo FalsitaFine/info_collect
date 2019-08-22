@@ -1,0 +1,4 @@
+
+Apnea, central sleep: <a href="https://www.medicinenet.com/sleep_apnea/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Sleep apnea</a> is a breathing disorder characterized by brief interruptions of breathing during <a href="https://www.medicinenet.com/sleep/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">sleep</a>.  It owes its name to a Greek word, apnea, meaning "want of breath."  There are two types of sleep apnea: central and obstructive.<ul>
+<li>Central sleep apnea occurs when the brain fails to send the appropriate signals to the breathing muscles to initiate respirations.</li> <li>Obstructive sleep apnea occurs when air cannot flow into or out of the person's nose or mouth although efforts to breathe continue.</li></ul>
+Central sleep apnea is less common than obstructive sleep apnea.

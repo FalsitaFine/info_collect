@@ -1,0 +1,2 @@
+
+DOB: Date of birth, an abbreviation that is frequently used in medical charting.

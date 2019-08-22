@@ -1,0 +1,9 @@
+
+ANC: The absolute neutrophil count, the number of white blood cells (WBCs) that are  neutrophils. 
+The ANC is not measured directly. It is derived by multiplying the WBC count times the percent of neutrophils in the differential WBC count. The percent of neutrophils consists of the segmented (fully mature) neutrophils) + the bands (almost mature neutrophils). The normal range for the ANC = 1.5 to 8.0 (1,500 to 8,000/mm3).  
+<u>Sample calculation of the ANC:</u><br>
+WBC count: 6,000 cells/mm3 of blood<br>
+Segs: 30% of the WBCs<br> Bands: 3% of the WBCs<br/> Neutrophils (segs + bands): 33% of the WBCs<br/> ANC: 33% X 6,000 = 2,000/mm3</br>
+ANC of 2,000/mm3, by convention = 2.0 </br>
+Normal range: 1.5 to 8.0 (1,500 to 8,000/mm3)<br/>
+Interpretation: Normal </br>

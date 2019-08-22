@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/aches_pain_fever/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Fever</a>: Although a fever technically is any body temperature above the normal of 98.6 F (37 C), in practice a person is usually not considered to have a significant fever until the temperature is above 100.4 F (38 C).

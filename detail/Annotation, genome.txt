@@ -1,0 +1,2 @@
+
+Annotation, genome: The process of identifying the locations and the coding regions of genes in a genome and determining what those genes do. An annotation (irrespective of the context) is a note added by way of explanation or commentary. Once a genome is sequenced, it needs to be annotated to make sense of it.

@@ -1,0 +1,2 @@
+
+BSL-2: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=14880" onclick="wmdTrack('embd-lnk');" rel="dict">Biosafety level</a> 2. A level of biosafety considered appropriate for agents that can cause human disease, but whose potential for transmission is limited.

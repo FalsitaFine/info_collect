@@ -1,0 +1,2 @@
+
+Genomic library: A collection of clones that is made from a set of randomly generated overlapping DNA fragments and that represents the entire genome of an organism. Also known as <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2755" onclick="wmdTrack('embd-lnk');" rel="dict">clone bank</a>.

@@ -1,0 +1,12 @@
+
+Arthrogram: a medical imaging technique that allows imaging of a joint after injection of contrast material into the joint. Injection of the contrast material better allows for visualization of soft tissues around and within the joint (like tendons, cartilage, and ligaments). Arthrography may be done using X-ray imaging known as fluoroscopy, but <a href="https://www.medicinenet.com/cat_scan/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">CT scan</a> and <a href="https://www.medicinenet.com/mri_scan/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">MRI</a> arthrography are also performed.                                                         
+                            <!--CONTINUEREADING-->
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">9/7/2018</span></i></div><a class="mediaPrmo quiz" href="https://www.medicinenet.com/rheumatoid_arthritis_quiz/quiz.htm" onclick="wmdTrack('quizprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com/images/quiz/rheumatoid-arthritis/s1.jpg"/>
+<span class="skew"></span>
+<span class="icon-quiz"></span>
+<h4 class="label">QUESTION</h4>
+<span class="caption">The term <i>arthritis</i> refers to stiffness in the joints.</span>
+<span class="btn">See Answer</span>
+</a>
+</div>

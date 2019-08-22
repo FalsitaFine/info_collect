@@ -1,0 +1,3 @@
+
+Northern blot: A technique in <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=25720" onclick="wmdTrack('embd-lnk');" rel="dict">molecular biology</a>, used mainly to separate and identify pieces of RNA. Called a Northern blot only because it is
+similar to a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=13495" onclick="wmdTrack('embd-lnk');" rel="dict">Southern blot</a> (which is named after its inventor, the British biologist M.E. Southern). There is also a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=6016" onclick="wmdTrack('embd-lnk');" rel="dict">Western blot</a>.

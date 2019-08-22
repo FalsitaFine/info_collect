@@ -1,0 +1,2 @@
+
+Hybridoma: A hybrid cell used as the basis for the production of antibodies in large amounts for diagnostic or therapeutic use. Hybridomas are produced by injecting a specific antigen into a mouse, collecting an antibody-producing cell from the mouse's spleen, and fusing it with a <a href="https://www.medicinenet.com/tumor_grade/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">tumor</a> cell called a myeloma cell. The hybridoma cells multiply indefinitely in the laboratory and can be used to produce a specific antibody indefinitely.

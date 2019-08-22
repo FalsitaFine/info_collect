@@ -1,0 +1,5 @@
+
+Bone morphogenetic protein: A member of a superfamily of proteins that promote the formation of bone and the skeleton and help mend broken bones. 
+Although it was known that scrapings from healthy bone stimulated the healing of fractures, the nature of the regenerative mechanism remained a mystery until 1965 when Dr. Marshall Urist did an experiment in which he implanted  demineralized, pulverized bone in a rabbit's muscle. Bone formed at the site. Dr. Urist called the protein responsible for this phenomenon "bone morphogenetic protein" (BMP).
+
+There are a number of BMPs. One is called BMP1. It is not closely related to other known growth factors. The gene for BMP1 is located on chromosome 8 at band 8p21. Other members of the BMP family are numbered starting from BMP2. These BMPs are quite different from BMP1 and belong to a superfamily called <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=38300" onclick="wmdTrack('embd-lnk');" rel="dict">transforming growth factor</a> beta (TGF-beta).

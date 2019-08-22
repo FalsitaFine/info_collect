@@ -1,0 +1,2 @@
+
+Differential white cell count: The proportions of the different types of white cells in the blood, usually split into the different types of granulocytes, lymphocytes, monocytes, eosinophils, and basophils. The differential white cell count was originally done by visual inspection of the blood and is now often machine-generated. Normal values are: 24-62% neutrophils, 19-53% lymphocytes, 2-12% monocytes, 0-7% eosinophils, and 0-2% basophils.

@@ -1,0 +1,2 @@
+
+Expression, gene: The translation of information encoded in a gene into protein or RNA structures that are present and operating in the cell. Expressed genes include genes that are transcribed into messenger RNA (mRNA) and then translated into protein, as well as genes that are transcribed into RNA, such as transfer and ribosomal RNAs, but not translated into protein.

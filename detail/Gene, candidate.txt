@@ -1,0 +1,2 @@
+
+Gene, candidate: Any gene thought likely to cause a disease. The gene may be a candidate because it is located in a particular chromosome region suspected of being involved in the disease or its protein product may suggest that it could be the disease gene in question.

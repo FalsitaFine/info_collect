@@ -1,0 +1,7 @@
+
+Capsule: Capsule has many meanings in medicine including the following:
+<ol>
+<li>In medicine, a membranous structure that envelops an organ, a joint, <a href="https://www.medicinenet.com/tumor_grade/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">tumor</a>, or any other part of the body. It is usually made up of dense collagen-containing connective tissue.</li>
+<li>In pharmacy, a solid dosage form in which the drug is enclosed in a hard or soft soluble container, usually of a form of gelatin.</li> <li>In microbiology, a coat around a microbe, such as a bacterium or fungus.</li>
+</ol>
+Derived from the diminutive of the Latin word "capsa" meaning "box", a capsule is literally "a little box" and can refer to any encompassing structure or small container.

@@ -1,0 +1,4 @@
+
+Film, AP: An X-ray picture in which the beams pass from front-to-back
+(anteroposterior). As opposed to a PA (posteroanterior) film in which the rays pass
+through the body from back-to-front.

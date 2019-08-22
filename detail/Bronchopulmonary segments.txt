@@ -1,0 +1,4 @@
+
+Bronchopulmonary segments: A subdivision of one lobe of a lung
+based on the connection to the segmental <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=20385" onclick="wmdTrack('embd-lnk');" rel="dict">bronchus</a>. For example, the right upper lobe has
+<a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2306" onclick="wmdTrack('embd-lnk');" rel="dict"> apical</a>, anterior, and posterior segments.

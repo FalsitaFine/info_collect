@@ -1,0 +1,7 @@
+
+Genomic: Pertaining to the genome, all of the genetic information possessed by any organism. There are, for instance, the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3818" onclick="wmdTrack('embd-lnk');" rel="dict">human genome</a>, the elephant genome, the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=13889" onclick="wmdTrack('embd-lnk');" rel="dict">mouse genome</a>, the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=13872" onclick="wmdTrack('embd-lnk');" rel="dict">yeast genome</a>, etc. Humans and many other higher animals have two genomes, namely:
+<ul>
+<li>A <u>chromosomal genome</u> which is in the nucleus of the cell; and</li>
+<li>A <u><a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4401" onclick="wmdTrack('embd-lnk');" rel="dict">mitochondrial genome</a></u> which is outside the nucleus in the <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2907" onclick="wmdTrack('embd-lnk');" rel="dict">cytoplasm</a> of the cell.</li>
+</ul>
+Together these two genomes make up the total genome. The study of a genome is called <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=23242" onclick="wmdTrack('embd-lnk');" rel="dict">genomics</a>.

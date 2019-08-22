@@ -1,0 +1,9 @@
+
+Common hepatic duct: The duct formed by the junction of the right hepatic duct (which drains bile from the right half of the liver) and the left hepatic duct (which drains bile from the left half of the liver). The common hepatic duct then joins the cystic duct coming from the gallbladder to form the common bile duct.
+<!--START IMAGETAG-->
+<div id="lrgArtImg">
+<div itemscope="" itemtype="https://schema.org/CreativeWork">
+<img alt="Illustration of Gallstones forming in the Gallbladder" itemprop="image" src="https://images.medicinenet.com/images/gallstones.jpg">
+</img></div>
+</div>
+<!--END IMAGETAG-->

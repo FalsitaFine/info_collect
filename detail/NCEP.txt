@@ -1,0 +1,11 @@
+
+NCEP: The National Cholesterol Education Program. See: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=24145">National Cholesterol Education Program</a>
+<!--CONTINUEREADING-->
+<div id="lastreviewed" itemscope="" itemtype="https://schema.org/WebPage"><i>Reviewed on <span itemprop="lastReviewed">12/11/2018</span></i></div><a class="mediaPrmo ss" href="https://www.medicinenet.com/lowering_cholesterol_15_tips_slideshow/article.htm" onclick="wmdTrack('ssprmo-arttop');" target="_blank">
+<img src="https://images.medicinenet.com//images/slideshow/cholesterol_s1_fresh_rasberries.jpg"/>
+<span class="skew"></span>
+<span class="icon-slideshow"></span>
+<h4 class="label">SLIDESHOW</h4>
+<span class="caption">Lower Your Cholesterol, Save Your Heart</span>
+<span class="btn">See Slideshow</span>
+</a>

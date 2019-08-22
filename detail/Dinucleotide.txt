@@ -1,0 +1,2 @@
+
+Dinucleotide: A sequence of 2 base pairs. A <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=39352" onclick="wmdTrack('embd-lnk');" rel="dict">trinucleotide</a> (a triplet of base pairs) may be split into a dinucleotide and a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=39354" onclick="wmdTrack('embd-lnk');" rel="dict">mononucleotide</a>.

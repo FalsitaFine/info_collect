@@ -1,0 +1,5 @@
+
+Cell, alpha (pancreatic): A type of cell in the pancreas (the organ of the
+digestive system located behind the stomach). Within the pancreas, the alpha
+cells are located in areas called the islets of Langerhans. Alpha cells make
+and release <a href="https://www.medicinenet.com/glucagon/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">glucagon</a> which raises the level of <a href="https://www.medicinenet.com/glucose/article.htm" onclick="wmdTrack('embd-lnk');" rel="pharm">glucose</a> (sugar) in the blood.

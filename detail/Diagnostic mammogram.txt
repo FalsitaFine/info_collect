@@ -1,0 +1,7 @@
+
+Diagnostic mammogram: An X-ray of the <a href="https://www.medicinenet.com/breast_anatomy/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">breast</a> done to evaluate:
+<ul>
+<li>Abnormalities seen or suspected on a prior screening <a href="https://www.medicinenet.com/mammogram/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">mammogram</a>;
+<li>Subjective or objectives abnormalities in the breast such as a lump, pain, thickening, nipple discharge or a inexplicable change in breast size or shape;
+<li>Breasts for which it is difficult to obtain a clear X-ray by a screening mammogram because of special circumstances such as breast implants.
+</li></li></li></ul> A diagnostic mammogram takes longer and involves correspondingly more radiation exposure than a screening mammogram because it involves more X-rays.

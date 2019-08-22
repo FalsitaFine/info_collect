@@ -1,0 +1,2 @@
+
+Missense mutation: A genetic change that results in the substitution of one amino acid in protein for another. A missense mutation is responsible for sickle <a href="https://www.medicinenet.com/hemoglobin/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">hemoglobin</a>, the molecular basis of sickle cell trait and sickle cell <a href="https://www.medicinenet.com/anemia/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">anemia</a>.

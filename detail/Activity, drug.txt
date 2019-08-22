@@ -1,0 +1,3 @@
+
+Activity, drug: A measure of the physiological response a drug
+produces in the body. A less active drug produces less response (and visa versa).

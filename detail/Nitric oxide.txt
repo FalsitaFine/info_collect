@@ -1,0 +1,9 @@
+
+Nitric oxide: A compound that is toxic but which, paradoxically, plays a number of important roles in the body, including the following:
+<ul>
+<li>It acts as a vasodilator (blood vessel relaxant).
+<li>It therefore controls blood flow to tissues.
+<li>It regulates the binding and release of oxygen to <a href="https://www.medicinenet.com/hemoglobin/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">hemoglobin</a>.
+<li>It thereby controls the supply of oxygen to mitochondria (cell powerhouses that generate energy).   <li>It kills parasitic organisms, virus-infected cells, and <a href="https://www.medicinenet.com/tumor_grade/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">tumor</a> cells (by inactivating respiratory chain enzymes in their mitochondria).
+<li>It stimulates the production of new mitochondria.</li> </li></li></li></li></li></ul>
+The 1998 Nobel Prize in Medicine or Physiology was awarded to Robert F. Furchgott, Ferid Murad, and Louis J. Ignarro for their discoveries of the role of nitric oxide in cardiovascular physiology.

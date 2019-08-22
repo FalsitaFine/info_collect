@@ -1,0 +1,2 @@
+
+Approved drug: A medication approved for marketing. In the US, the Food and Drug Administration (FDA) must approve a substance as a drug before it can be marketed. The approval process involves several steps including pre-clinical laboratory and animal studies, <a href="https://www.medicinenet.com/clinical_trials/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">clinical trials</a> for safety and efficacy, filing of a New Drug Application by the manufacturer of the drug, FDA review of the application, and FDA approval/rejection of application.

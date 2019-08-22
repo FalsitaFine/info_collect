@@ -1,0 +1,2 @@
+
+Metanalysis: A technique currently popular in medical research, whereby all data from all available studies of something are combined, at times regardless of the quality of the data. The technique is used by researchers to get a maximum amount of statistical information (the most "power" possible), at times  without worrying about distortion of the results.

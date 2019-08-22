@@ -1,0 +1,3 @@
+
+Factor, colony-stimulating: A laboratory-made agent similar to a normally existing substance in the body that stimulates the production of blood cells.
+The colony-stimulating factors (CSFs) include granulocyte colony-stimulating factors (G-CSF) and granulocyte-macrophage colony-stimulating factors (GM-CSF).  Treatment with colony-stimulating factors can help the blood-forming tissue recover from the effects of <a href="https://www.medicinenet.com/chemotherapy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">chemotherapy</a> and <a href="https://www.medicinenet.com/radiation_therapy/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">radiation therapy</a>.

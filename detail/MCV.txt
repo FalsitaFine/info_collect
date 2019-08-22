@@ -1,0 +1,2 @@
+
+MCV: Abbreviation for mean cell volume, the average volume of a red blood cell. This is a calculated value derived from the <a href="https://www.medicinenet.com/hematocrit/article.htm">hematocrit</a> and the red cell count (The hematocrit is the ratio of the volume of red cells to the volume of whole blood while the red cell count is the number of red blood cells in a volume of blood). The MCV is a standard part of the <a href="https://www.medicinenet.com/complete_blood_count/article.htm">complete blood count</a> (CBC).

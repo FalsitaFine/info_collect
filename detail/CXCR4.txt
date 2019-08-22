@@ -1,0 +1,2 @@
+
+CXCR4: A <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=2696" onclick="wmdTrack('embd-lnk');" rel="dict">chemokine receptor</a> found on a wide variety of cells that serves as the coreceptor for HIV. HIV strains that use CXCR4 are referred to as X4 viruses.

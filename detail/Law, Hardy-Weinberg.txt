@@ -1,0 +1,2 @@
+
+Law, Hardy-Weinberg: A basic concept in population genetics that relates the gene frequency to the genotype frequency. The Hardy-Weinberg law can be used, for example, to determine allele frequency and heterozygote frequency when the incidence of a genetic disorder is known.

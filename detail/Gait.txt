@@ -1,0 +1,2 @@
+
+Gait: A manner of <a href="https://www.medicinenet.com/walking/article.htm" onclick="wmdTrack('embd-lnk');" rel="sub">walking</a>. Observation of gait can provide early diagnostic clues for a number of disorders, including <a href="https://www.medicinenet.com/cerebral_palsy/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">cerebral palsy</a>, <a href="https://www.medicinenet.com/parkinsons_disease/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Parkinson's disease</a>, and Rett syndrome.

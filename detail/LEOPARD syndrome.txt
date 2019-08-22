@@ -1,0 +1,9 @@
+
+LEOPARD syndrome: A genetic syndrome transmitted in an autosomal dominant manner that is named for its characteristic features:
+<ul>
+<li>L -- lentigines (dark <a href="https://www.medicinenet.com/freckles/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">freckles</a>) on the head and neck
+<li>E -- <a href="https://www.medicinenet.com/electrocardiogram_ecg_or_ekg/article.htm" onclick="wmdTrack('embd-lnk');" rel="proc">electrocardiogram</a> (EKG) abnormalities <li>O -- ocular hyperteleorism (wide-spacing of the eyes) <li>P -- pulmonary stenosis
+<li>A -- abnormal genitalia <li>R -- retardation of growth <li>D -- deafness  (sensorineural type)
+</li></li></li></li></li></li></li></ul>
+The LEOPARD syndrome is caused by mutations in the gene for protein-tyrosine phosphatase, nonreceptor-type, 11 (PTPN11). The LEOPARD syndrome is therefore allelic with <a href="https://www.medicinenet.com/noonan_syndrome/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Noonan syndrome</a> which is also the result of mutations in PTPN11.
+LEOPARD syndrome is the most common name for the disorder. It is also known as multiple lentigines syndrome, Gorlin syndrome II, cardio-cutaneous syndrome, lentiginosis profusa syndrome, progressive cardiomyopathic lentiginosis.

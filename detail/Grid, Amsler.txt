@@ -1,0 +1,2 @@
+
+Grid, Amsler: A grid pattern that resembles a checkerboard utilized for examination of the eye. The patient covers one eye and stares at a black dot in the center of the grid. While staring at the dot, the patient may notice that the straight lines in the pattern appear wavy.

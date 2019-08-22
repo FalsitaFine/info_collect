@@ -1,0 +1,2 @@
+
+Codon: A set of any three adjacent bases in DNA or RNA. There are 64 different codons, of which 61 specify the incorporation of an amino acid into a <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=7766" onclick="wmdTrack('embd-lnk');" rel="dict">polypeptide</a> chain; the remaining 3 are stop codons, which signal the ends of polypeptides.

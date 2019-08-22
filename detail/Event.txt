@@ -1,0 +1,2 @@
+
+Event: A set of outcomes. Cardiovascular events might include a <a href="https://www.medicinenet.com/heart_attack/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">heart attack</a> and gastrointestinal events a GI bleed. The use of the term "event" in medicine comes from probability theory.

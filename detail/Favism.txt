@@ -1,0 +1,10 @@
+
+Favism: A condition characterized by hemolytic <a href="https://www.medicinenet.com/anemia/article.htm">anemia</a> 
+(breakup of red blood cells) after eating fava beans (Vicia fava) or being exposed to the
+pollen of the fava plant. This dangerous reaction occurs exclusively in people with a
+deficiency of the enzyme glucose-6-phosphate dehydrogenase (G6PD), an X-linked genetic
+trait. However, not all G6PD-deficient families appear at risk for favism, indicating the
+additional need for a single autosomal (not X-linked) gene to create the susceptibility to
+favism of G6PD-deficient persons. The active hemolytic principle in fava beans is &gt;
+likely DOPA-quinone. Differences in susceptibility to favism may be related to differences
+in the enzymatic system that converts L-DOPA to DOPA-quinone.

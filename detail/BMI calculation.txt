@@ -1,0 +1,2 @@
+
+BMI calculation: A person's weight in kilograms (kg) divided by their height in meters (m) squared. BMI stands for <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=16125" onclick="wmdTrack('embd-lnk');" rel="dict">body mass index</a>.

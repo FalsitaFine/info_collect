@@ -1,0 +1,2 @@
+
+Loss-of-function mutation: A mutation that results in reduced or abolished protein function. Gain-of-function mutations,which are much less common, confer an abnormal activity on a protein.

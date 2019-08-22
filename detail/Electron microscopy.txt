@@ -1,0 +1,9 @@
+
+Electron microscopy: Abbreviated EM. Microscopy in which an electron beam replaces light to form the image. 
+EM has its pluses (greater magnification and <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=5325">resolution</a> than 
+optical <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4375">microscopes</a>) and minuses (you are not really 
+"seeing" objects, but rather you are looking at their electron densities, and meaningless artifacts may abound). Nonetheless, EM has extended the range of the microscope.
+EM was invented by a team led by Vladimir 
+Zworykin, an engineer at the RCA <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=6463">Laboratory</a> in Camden, New Jersey. 
+The device was publicly unveiled in 1940.
+The Belgian-born biochemist Albert Claude (1899-1983) was the first person to examine cells under EM and see a cancer-associated virus (thanks to EM). He did the lion's share of his research at the Rockefeller Institute (now the Rockefeller University) in New York and in 1974 shared the Nobel Prize in <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=8223">Physiology</a> or Medicine with Christian De Duve and George Palade for "their discoveries concerning the structural and functional organization of the cell."

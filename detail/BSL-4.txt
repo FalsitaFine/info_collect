@@ -1,0 +1,2 @@
+
+BSL-4: <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=14880" onclick="wmdTrack('embd-lnk');" rel="dict">Biosafety level</a> 4. The highest level of biosafety. This level is used for the diagnosis of exotic agents such as the <a href="https://www.medicinenet.com/ebola_hemorrhagic_fever_ebola_hf/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">Ebola virus</a> that pose a high risk of life-threatening disease, which may be transmitted by the aerosol route and for which there is no vaccine or therapy.

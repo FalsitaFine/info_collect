@@ -1,0 +1,4 @@
+
+<i>Candida auris</i>: a type of yeast that is often resistant to many antifungal medications that has been reported to cause severe illness in hospitalized patients. Risk factors for the infection include long stay in an intensive care unit, a central venous catheter placed in a large vein, a weakened immune system, or previously treatment with antibiotics or antifungal medications. Types of infections known to be caused by <i>C. auris</i> include bloodstream infections,
+<a href="https://www.medicinenet.com/cuts_scrapes_and_puncture_wounds/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">wound infections</a>, and 
+<a href="https://www.medicinenet.com/ear_infection/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">ear infections</a>. The mechanism of spread of the fungus is not clear, but spread in the healthcare setting is likely. Specialized laboratory testing is needed to properly identify <i>C. auris</i>.

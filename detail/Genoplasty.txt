@@ -1,0 +1,3 @@
+
+Genoplasty: A technology that uses the repair mechanisms normally present in cells to repair gene defects. In genoplasty, a short oligonucleotide fragment is introduced into the cell to simulate a normal DNA sequence and this deceives the cell into repairing itself. The sequence of the gene itself is thus changed permanently.
+Genoplasty is different from gene therapy in which a normal gene is inserted into the cell.

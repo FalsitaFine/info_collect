@@ -1,0 +1,7 @@
+
+DPT immunization: Immunization to protect against <a href="https://www.medicinenet.com/diphtheria_facts/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">diphtheria</a>, pertussis (<a href="https://www.medicinenet.com/pertussis/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">whooping cough</a>), and <a href="https://www.medicinenet.com/tetanus/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">tetanus</a>. DPT immunizations are given in a series of 5 shots at
+2, 4, 6, 18 months of age and 4-6 years of age. Thanks to vaccination programs, these
+diseases have become less common. However, there are still unvaccinated individuals
+capable of carrying and passing diphtheria and pertussis to others who are not vaccinated.
+Tetanus bacteria are prevalent in natural surroundings, such as contaminated soil. See
+also: DTaP immunization.

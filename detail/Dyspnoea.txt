@@ -1,0 +1,2 @@
+
+<a href="https://www.medicinenet.com/script/main/art.asp?articlekey=7292" onclick="wmdTrack('embd-lnk');" rel="dict">Dyspnoea</a>: Difficult or labored <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=11056" onclick="wmdTrack('embd-lnk');" rel="dict">breathing</a>; <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=97560" onclick="wmdTrack('embd-lnk');" rel="dict">shortness of breath</a>.

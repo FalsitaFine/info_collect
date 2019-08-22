@@ -1,0 +1,3 @@
+
+Exercise test: a test used to provide information about how the heart responds to exertion.
+See <a href="https://www.medicinenet.com/exercise_stress_test/article.htm">exercise cardiac treadmill</a>.

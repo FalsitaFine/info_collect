@@ -1,0 +1,7 @@
+
+Granular leukocyte: A type of white blood cell filled with microscopic granules (tiny sacs) containing enzymes that digest microorganisms.
+
+Granular <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=4145" onclick="wmdTrack('embd-lnk');" rel="dict">leukocytes</a> -- they are better known as granulocytes -- are part of the innate <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=3907" onclick="wmdTrack('embd-lnk');" rel="dict">immune system</a> and have somewhat non specific, broad-based activity. They do not respond exclusively to specific antigens, as do B-cells and T-cells. Neutrophils, eosinophils and basophils are all types of granulocytes. They are named by the staining features of their granules in the laboratory:<ul>
+<li>Neutrophils have "neutral" subtle granules;</li> <li>Eosinophils  have prominent granules that stain readily with the acid dye eosin; and </li>
+<li>Basophils have prominent granules that stain readily basic (non acidic) dyes.</li></ul>
+This classification dates back to a time when certain structures could be identified in cells by histochemistry, but the functions of these intracellular structures were still not yet fathomed. However, the classification of granulocytes into neutrophils, eosinophils and basophils is still widely used (and quite useful).

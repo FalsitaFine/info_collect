@@ -1,0 +1,4 @@
+
+FAS gene: A gene that encodes one of several proteins important to apoptosis, the normal process through which cells die. Mutations in the FAS gene have been found in ALPS (the autoimmune lymphoproliferative syndrome), a disease in which there is failure of lymphocytes to die on schedule. As a result, lymphocytes stay about and attack the body's own tissues, a condition known as  autoimmunity. Mutations in FAS account for about 83% of cases of ALPS.
+
+The FAS gene is on chromosome 10q24.1. The gene is member 6 of the <a href="https://www.medicinenet.com/tumor_grade/article.htm" onclick="wmdTrack('embd-lnk');" rel="dt">tumor</a> necrosis factor receptor superfamily. FAS is now officially known as TNFRSF6. It has also confusingly been known as APO-1, APT1, and CD95. 
