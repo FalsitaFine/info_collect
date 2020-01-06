@@ -15,3 +15,10 @@ mediterm.py: Generate a local medical dictionary by running a scraper.
 related.py: For a particular topic, find all related terms, generate a wordlist.
 
 twi_collection.py: Collecting information from twitter.
+
+
+# classify
+
+A classifier demo is in the classify folder, which can be run with python3.
+
+The idea is to use a neural network to classify a text sentence(in this demo, try to classify whether it is about "state fair" or "breast cancer"). With this kind of classification, we can tag the text files and make better decisions (pick best language model to use, etc) in the further designs.
